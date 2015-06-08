@@ -41,34 +41,19 @@ header {
 }
 
 #sec2 {
-	height: 75px; 
-	width: 33%; 
-	margin-top: 50px;
-	margin-left: 33%;
 	background-color: indigo;
 	text-align:center;
-	vertical-align:middle; 
-	line-height: 75px;    
+	vertical-align:middle;  
 	color: white;
-	font-size: 2.5em;
 }
 
 #sec3 {
-	height: 250px; 
-	width: 80%; 
-	margin-top: 75px;
-	margin-left: 10%;
 	background-color: black; 
 	color: white;
-	font-size: 2.2em;
 }
 #sec3 p {
-	line-height: 52px;
-  	vertical-align: middle;
-  	text-align: center;
-  	padding-top: 70px;
- 	height: 100px;
-	width: 100%;   
+  vertical-align: middle;
+  text-align: center;
 }
 
 #sec4 {
