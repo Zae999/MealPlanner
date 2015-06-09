@@ -1,150 +1,91 @@
-html {
-	height:100%;
-	width:100%;
-}
-body  {
-	height:100%;
-	width:100%;
-	margin: 0px;
-}
-header {
-	height: 5%;
-	width: 100%;
-	background-color: lightblue;
-}
-
-#main {
-	background-color: lightgreen;
-	height: 3550px;
-	width: 100%;
-}
-
-#firstImage {
-	max-width:100%;
-	height:auto;
-	position: relative;
-	float: left;
-}
-#hiddenBoxTop {
-	height: 5%; 
-	width: 100%;
-}
-
-#sec1 {
-	height: 400px; 
-	width: 100%; 
-	background-color: rgb(147,105,52);
-	/*background-image: url('../images/ikb.jpg');
-	background-size: cover;
-  	background-repeat: no-repeat;
-  	background-position: center 85%;*/
-}
-
 #sec2 {
-	height: 75px; 
-	width: 33%; 
-	margin-top: 50px;
-	margin-left: 33%;
-	background-color: indigo;
-	text-align:center;
-	vertical-align:middle; 
-	line-height: 75px;    
-	color: white;
-	font-size: 2.5em;
+  height: 75px; 
+  width: 33%; 
+  margin-top: 50px;
+  margin-left: 33%;
+  line-height: 75px;    
+  font-size: 2em;
 }
 
 #sec3 {
-	height: 250px; 
-	width: 80%; 
-	margin-top: 75px;
-	margin-left: 10%;
-	background-color: black; 
-	color: white;
-	font-size: 2.2em;
+  height: 250px; 
+  width: 80%; 
+  margin-top: 75px;
+  margin-left: 10%;
+  font-size: 1.5em;
 }
 #sec3 p {
-	line-height: 52px;
-  	vertical-align: middle;
-  	text-align: center;
-  	padding-top: 70px;
- 	height: 100px;
-	width: 100%;   
+  line-height: 52px;
+  padding-top: 70px;
+  height: 100px;
+  width: 100%;   
 }
 
 #sec4 {
-	height: 400px; 
-	width: 50%; 
-	margin-top: 100px;
-	float: left;
-	background-color: black;
+  height: 400px; 
+  width: 50%; 
+  margin-top: 100px;
 }
 
 #sec4 p {
-	line-height: 65px;
-  	vertical-align: middle;
-  	text-align: center;
- 	height: 65px;
-	width: 100%;   
-	color: white;
-	font-size: 2.3em;
+  line-height: 65px;
+  height: 65px;
+  width: 100%;   
+  font-size: 2.3em;
 }
 
 #innerSec2a {
-	height: 181px;
-  	width: 64%;
-  	line-height: 45px;
-	margin-left: 17%;
+  height: 181px;
+  width: 85%;
+  line-height: 45px;
+  margin-left: 6%;
 }
 
 #innerSec2a ul {
-	color: white;
-	font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 #innerSec2b {
-	height: 181px;
-  	width: 64%;
-  	line-height: 45px;
-	margin-left: 17%;
+  height: 181px;
+  width: 85%;
+  line-height: 45px;
+  margin-left: 6%;
 }
 
 #innerSec2b ul {
-	color: black;
-	font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 #sec5 {
-	height: 400px; 
-	width: 50%; 
-	margin-top: 100px;
-	float: left;
-	background-color: white;
+  height: 400px; 
+  width: 50%; 
+  margin-top: 100px;
 }
 
 #sec5 p {
-	line-height: 65px;
-  	vertical-align: middle;
-  	text-align: center;
- 	height: 65px;
-	width: 100%;   
-	font-size: 2.3em;
+  line-height: 65px;
+  height: 65px;
+  width: 100%;   
+  font-size: 2.3em;
 }
 
 #sec6 {
-	height: 600px; 
-	width: 100%; 
-	background-color: gray;
-	margin-top: 500px;
+  height: 600px; 
+  width: 100%; 
+  margin-top: 500px;
+}
+
+#titleSec6 {
+  width: 50%;
+  height: 12%;
+  margin-left: 25%;
+  margin-top: -33px;
 }
 
 #titleSec6 p {
-	line-height: 150px;
-  	vertical-align: middle;
-  	text-align: center;
-  	height: 150px;
-  	width: 100%;
-  	font-size: 3em;
-  	text-decoration: underline;
+  line-height: 72px;
+  width: 100%;
+  font-size: 2em;
 }
 
 
@@ -152,43 +93,37 @@ header {
 
 
 #expertProfile1 {
-  	width: 31%;
-  	height: 22%;
-  	margin-top: -3.2%;
-  	margin-left: 9%;
-  	background-color: orange;
-  	float: left;
+  width: 42%;
+  height: 22%;
+  margin-top: 2.8%;
+  margin-left: 4%;
+
 }
 
 #profilePic1 {
-	width: 30%;
-	height: 100%;
-	border-radius: 100%;
-	background-color: black;
+  width: 30%;
+  height: 100%;
+  margin-left: 1%;
+  border-radius: 100%;
 }
 
 #profileTitle1 {
-	width: 45%;
-  	height: 25%;
-  	margin-left: 42%;
-  	margin-top: -35%;
-	background-color: green;
+  width: 45%;
+  height: 20%;
+  margin-left: 42%;
+  margin-top: -34.5%;
 }
 
 #profileTitle1 p {
-	line-height: 33px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.6em;
-  	color: white;
+  line-height: 26px;
+  font-size: 1.3em;
 }
 
 #profileMessage1 {
-	width: 55%;
-  	height: 65%;
-  	margin-left: 37%;
- 	margin-top: -2.6%;
-	background-color: blue;
+  width: 55%;
+  height: 70%;
+  margin-left: 37%;
+  margin-top: -2.6%;
 }
 
 #profileMessage1 p {
@@ -196,19 +131,17 @@ header {
 }
 
 #qmark1 {
-	width: 7%;
-  	height: 24%;
-  	background-color: white;
-  	margin-left: 32%;
-  	margin-top: -22.6%;
+  width: 7%;
+  height: 24%;
+  margin-left: 32%;
+  margin-top: -24.6%;
 }
 
 #qmark2 {
-	width: 7%;
-  	height: 24%;
-  	background-color: white;
-  	margin-left: 90%;
-  	margin-top: 8.6%;
+  width: 7%;
+  height: 24%;
+  margin-left: 91%;
+  margin-top: 10.6%;
 }
 
 
@@ -216,42 +149,36 @@ header {
 
 
 #expertProfile2 {
-  	width: 31%;
-  	height: 22%;
-  	margin-top: 18%;
-  	margin-left: 9%;
-  	background-color: orange;
+    width: 42%;
+    height: 22%;
+    margin-top: 19.6%;
+    margin-left: 4%;
 }
 
 #profilePic2 {
-	width: 30%;
-	height: 100%;
-	border-radius: 100%;
-	background-color: black;
+  width: 30%;
+  height: 100%;
+  margin-left: 1%;
+  border-radius: 100%;
 }
 
 #profileTitle2 {
-	width: 45%;
-  	height: 25%;
-  	margin-left: 42%;
-  	margin-top: -35%;
-	background-color: green;
+  width: 45%;
+  height: 20%;
+  margin-left: 42%;
+  margin-top: -34.5%;
 }
 
 #profileTitle2 p {
-	line-height: 33px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.6em;
-  	color: white;
+  line-height: 33px;
+  font-size: 1.3em;
 }
 
 #profileMessage2 {
-	width: 55%;
-  	height: 65%;
-  	margin-left: 37%;
- 	margin-top: -2.6%;
-	background-color: blue;
+  width: 55%;
+  height: 70%;
+  margin-left: 37%;
+  margin-top: -2.6%;
 }
 
 #profileMessage2 p {
@@ -263,44 +190,37 @@ header {
 
 
 #expertProfile3 {
-  	width: 31%;
-  	height: 22%;
-  	margin-top: -27.15%;
-  	margin-left: 60%;
-  	background-color: orange;
-  	float: left;
+  width: 42%;
+  height: 22%;
+  margin-top: -29.8%;
+  margin-left: 55%;
 
 }
 
 #profilePic3 {
-	width: 30%;
-	height: 100%;
-	border-radius: 100%;
-	background-color: black;
+  width: 30%;
+  height: 100%;
+  margin-left: 1%;
+  border-radius: 100%;
 }
 
 #profileTitle3 {
-	width: 45%;
-  	height: 25%;
-  	margin-left: 42%;
-  	margin-top: -35%;
-	background-color: green;
+  width: 45%;
+  height: 20%;
+  margin-left: 42%;
+  margin-top: -34.5%;
 }
 
 #profileTitle3 p {
-	line-height: 33px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.6em;
-  	color: white;
+  line-height: 33px;
+  font-size: 1.3em;
 }
 
 #profileMessage3 {
-	width: 55%;
-  	height: 65%;
-  	margin-left: 37%;
- 	margin-top: -2.6%;
-	background-color: blue;
+  width: 55%;
+  height: 70%;
+  margin-left: 37%;
+  margin-top: -2.6%;
 }
 
 #profileMessage3 p {
@@ -312,43 +232,36 @@ header {
 
 
 #expertProfile4 {
-  	width: 31%;
-  	height: 22%;
-  	margin-top: -9.3%;
-  	margin-left: 60%;
-  	background-color: orange;
-  	float: left;
+  width: 42%;
+  height: 22%;
+  margin-top: -12.9%;
+  margin-left: 55%;
 }
 
 #profilePic4 {
-	width: 30%;
-	height: 100%;
-	border-radius: 100%;
-	background-color: black;
+  width: 30%;
+  height: 100%;
+  margin-left: 1%;
+  border-radius: 100%;
 }
 
 #profileTitle4 {
-	width: 45%;
-  	height: 25%;
-  	margin-left: 42%;
-  	margin-top: -35%;
-	background-color: green;
+  width: 45%;
+  height: 20%;
+  margin-left: 42%;
+  margin-top: -34.5%;
 }
 
 #profileTitle4 p {
-	line-height: 33px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.6em;
-  	color: white;
+  line-height: 33px;
+  font-size: 1.3em;
 }
 
 #profileMessage4 {
-	width: 55%;
-  	height: 65%;
-  	margin-left: 37%;
- 	margin-top: -2.6%;
-	background-color: blue;
+  width: 55%;
+  height: 70%;
+  margin-left: 37%;
+  margin-top: -2.6%;
 }
 
 #profileMessage4 p {
@@ -360,207 +273,168 @@ header {
 
 
 #sec7 {
-	height: 600px; 
-	width: 100%; 
-	background-color: blue;
+  height: 600px; 
+  width: 100%; 
 }
 
+#titleSec7 {
+  width: 65%;
+  height: 12%;
+  margin-left: 18.5%;
+  margin-top: -33px;
+}
 #titleSec7 p {
-	line-height: 150px;
-  	vertical-align: middle;
-  	text-align: center;
-  	height: 150px;
-  	width: 100%;
-  	font-size: 3em;
-  	text-decoration: underline;
-  	margin-top: 0%;
+  line-height: 72px;
+  font-size: 2em;
 }
 
 #customerProfile1 {
-  	width: 31%;
-  	height: 26%;
-  	margin-top: -3.2%;
-  	margin-left: 9%;
-  	background-color: orange;
-  	float: left;
+  width: 31%;
+  height: 26%;
+  margin-top: 1.8%;
+  margin-left: 13.5%;
 }
 
 #customerProfile2 {
-  	width: 31%;
-  	height: 26%;
-  	margin-top: -3.2%;
-  	margin-left: 9%;
-  	background-color: orange;
-  	float: left;
+  width: 31%;
+  height: 26%;
+  margin-top: 1.8%;
+  margin-left: 13.5%;
 }
 
 #customerProfile3 {
-  	width: 31%;
-  	height: 26%;
-  	margin-top: 4.8%;
-  	margin-left: 9%;
-  	background-color: orange;
-  	float: left;
+  width: 31%;
+  height: 26%;
+  margin-top: 4.8%;
+  margin-left: 13.5%;
 }
 
 #customerProfile4 {
-  	width: 31%;
-  	height: 26%;
-  	margin-top: 4.8%;
-  	margin-left: 9%;
-  	background-color: orange;
-  	float: left;
+  width: 31%;
+  height: 26%;
+  margin-top: 4.8%;
+  margin-left: 13.5%;
 }
 
 #profileTitle1b {
-	width: 75%;
-  	height: 21%;
-  	margin-left: 12.5%;
-  	margin-top: -5%;
-	background-color: green;
+  width: 75%;
+  height: 19%;
+  margin-left: 12.5%;
+  margin-top: -7%;
 }
 
 #profileTitle1b p {
-	line-height: 32px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.6em;
-  	color: white;
+  line-height: 32px;
+  font-size: 1.6em;
 }
 
 #profileRating1 {
-	width: 75%;
-  	height: 21%;
-  	margin-left: 12.5%;
-  	margin-top: -3.5%;
-	background-color: red;
+  width: 75%;
+  height: 19%;
+  margin-left: 12.5%;
+  margin-top: -3.5%;
 }
 
 #profileMessage1b {
-	width: 75%;
-  	height: 54%;
-  	margin-left: 12.5%;
-  	margin-top: -3.5%;
-  	background-color: gray;
+  width: 75%;
+  height: 52%;
+  margin-left: 12.5%;
+  margin-top: -3.5%;
 }
 
 
 
 #sec8 {
-	height: 600px; 
-	width: 100%; 
-	background-color: #A80000;	
+  height: 600px; 
+  width: 100%; 
 }
 
 #secondTitle {
-	width: 50%;
-  	height: 13%;
-  	margin-left: 25%;
-  	margin-top: -48px;
-	background-color: green;
+  width: 50%;
+  height: 12%;
+  margin-left: 25%;
+  margin-top: -48px;
 }
 
 #secondTitle p {
-	line-height: 105px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 3em;
-  	letter-spacing: 4px;
-  	color: white;
+  line-height: 72px;
+  font-size: 3em;
+  letter-spacing: 4px;
 }
 
 #lstBenefits {
-	width: 40%;
-  	height: 40%;
-  	margin-left: 30%;
-  	margin-top: 0px;
-	background-color: black;
+  width: 40%;
+  height: 40%;
+  margin-left: 30%;
+  margin-top: 0px;
 }
 
 #lstBenefits p {
-	line-height: 105px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 3em;
-  	letter-spacing: 4px;
-  	color: white;
+  line-height: 105px;
+  font-size: 3em;
+  letter-spacing: 4px;
 }
 
 #lstTitle {
-	width: 30%;
-  	height: 10%;
-  	margin-left: 35%;
-  	margin-top: 0px;
-	background-color: green;
+  width: 30%;
+  height: 10%;
+  margin-left: 35%;
+  margin-top: 0px;
 }
 
 #lstTitle p {
-	line-height: 60px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 2em;
-  	letter-spacing: 4px;
-  	color: white;
+  line-height: 60px;
+  font-size: 1.5em;
+  letter-spacing: 2px;
 }
 
 #sec9 {
-	height: 400px; 
-	width: 100%; 
-	background-color: #9900FF;
+  height: 400px; 
+  width: 100%; 
 }
 
 #lastTitle {
-	width: 30%;
-  	height: 10%;
-  	margin-left: 35%;
-  	margin-top: 0px;
-	background-color: green;
+  width: 30%;
+  height: 10%;
+  margin-left: 35%;
+  margin-top: 0px;
 }
 
 #lastTitle p {
-	line-height: 40px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 2em;
-  	letter-spacing: 4px;
-  	color: white;
+  line-height: 40px;
+  font-size: 1.7em;
+  letter-spacing: 4px;
 }
 
 #lastSubTitle {
-	width: 20%;
-  	height: 10%;
-  	margin-left: 40%;
-  	margin-top: -10px;
-	background-color: green;
+  width: 20%;
+  height: 10%;
+  margin-left: 40%;
+  margin-top: -10px;
 }
 
 #lastSubTitle p {
-	line-height: 40px;
-  	vertical-align: middle;
-  	text-align: center;
-  	font-size: 1.3em;
-  	letter-spacing: 4px;
-  	color: white;
+  line-height: 40px;
+  font-size: 1.3em;
+  letter-spacing: 1px;
 }
 
 #simpleForm {
-	width: 20%;
-  	height: 33%;
-  	margin-left: 40%;
-  	margin-top: 3%;
-	background-color: green;
+  width: 20%;
+  height: 33%;
+  margin-left: 40%;
+  margin-top: 3%;
 }
 
 #simpleButton {
-	width: 10%;
-  	height: 13%;
-  	margin-left: 45%;
-  	margin-top: 0%;
-	background-color: white;
+  width: 10%;
+  height: 13%;
+  margin-left: 45%;
+  margin-top: 0%;
 }
 
 footer {
-	height: 5%;
-	width: 100%;
-	background-color: rgba(255,0,0,0.5);
+  height: 5%;
+  width: 100%;
+  background-color: rgba(255,0,0,0.5);
 }
