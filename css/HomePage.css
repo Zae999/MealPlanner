@@ -96,6 +96,10 @@ header {
 	background-color: gray;
 }
 
+#titleSec6 {
+  background-color: red;
+}
+
 #titleSec6 p {
   vertical-align: middle;
   text-align: center;
