@@ -13,6 +13,18 @@ header {
 	background-color: lightblue;
 }
 
+#company {
+  float: left;
+  background-color: black;
+  color: white;
+}
+ 
+#LS {
+  float: right;
+  background-color: black;
+  color: white;
+} 
+
 #main {
 	background-color: lightgreen;
 	height: 3550px;

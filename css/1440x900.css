@@ -1,3 +1,25 @@
+#company {
+  height: 100%;
+  width: 10%;
+}
+
+#company p {
+  line-height: 14px; 
+  font-size: 1em;
+  margin-left: 13%;
+}
+
+#LS {
+  height: 100%;
+  width: 10%;
+} 
+
+#LS p {
+  line-height: 14px; 
+  font-size: 1em;
+  margin-left: 13%;
+} 
+
 #sec2 {
   height: 75px; 
   width: 33%; 
