@@ -1,24 +1,49 @@
 #company {
   height: 100%;
-  width: 10%;
+  width: 14%;
+  margin-left: 2%;
 }
 
 #company p {
-  line-height: 14px; 
-  font-size: 1em;
-  margin-left: 13%;
+  line-height: 4.5px; 
+  font-size: 1.3em;
+  margin-left: 15%;
+  font-weight: 900;
 }
 
 #LS {
   height: 100%;
-  width: 10%;
+  width: 14%;
+  margin-right: 2%;
 } 
 
-#LS p {
-  line-height: 14px; 
-  font-size: 1em;
-  margin-left: 13%;
+#LS-1 {
+  height: 100%;
+  width: 14%;
+  margin-right: 10%;
+  font-weight: 900;
+  border-radius: 5%;
 } 
+
+#LS-1 p {
+  line-height: 4.5px; 
+  font-size: 1.3em;
+} 
+
+
+#LS-2 {
+  height: 100%;
+  width: 14%;
+  margin-right: 2%;
+  font-weight: 900;
+  border-radius: 5%;
+} 
+
+#LS-2 p {
+  line-height: 4.5px; 
+  font-size: 1.3em;
+} 
+
 
 #sec2 {
   height: 75px; 

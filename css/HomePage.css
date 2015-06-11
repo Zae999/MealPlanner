@@ -10,19 +10,26 @@ body  {
 header {
 	height: 5%;
 	width: 100%;
-	background-color: lightblue;
+	background-color: white;
 }
+
 
 #company {
   float: left;
-  background-color: black;
-  color: white;
+  background-color: rgb(51,51,255);
+  color:  rgb(255,128,0);
 }
  
-#LS {
+#LS-1 {
   float: right;
-  background-color: black;
-  color: white;
+  color:  rgb(255,128,0);
+  background-color: rgb(51,51,255);
+} 
+
+#LS-2 {
+  float: right;
+  color:  rgb(255,128,0);
+  background-color: rgb(51,51,255);
 } 
 
 #main {
@@ -46,10 +53,11 @@ header {
 	height: 400px; 
 	width: 100%; 
 	background-color: rgb(147,105,52);
-	/*background-image: url('../images/ikb.jpg');
+	background-image: url('../images/image6.jpg');
 	background-size: cover;
-  	background-repeat: no-repeat;
-  	background-position: center 85%;*/
+  background-repeat: no-repeat;
+  background-position: center 50%;
+
 }
 
 #sec2 {
