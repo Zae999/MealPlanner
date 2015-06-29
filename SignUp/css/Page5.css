@@ -1,0 +1,836 @@
+html {
+	height:100%;
+	width:100%;
+}
+body  {
+	height:100%;
+	width:100%;
+	margin: 0px;
+}
+header {
+	height: 10%;
+	width: 100%;
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+#company {
+  height: 100%;
+  width: 30%;
+  margin-left: 37%;
+  float: left;
+  color: rgb(255, 154, 4);
+}
+
+#company p { 
+  font-size: 3.5em;
+  margin-top: -4px;
+  margin-left: 23%;
+  font-weight: 900;
+}
+
+#company span { 
+  font-size: 1.2em;
+  margin-top: -60px;
+  margin-left: 8.5%;
+  font-weight: 500;
+  color: rgb(0, 153, 255);
+  position: absolute;
+}
+
+
+#smIcons {
+  height: 8%;
+  width: 18%;
+  margin-top: 0px;
+  margin-left: 62%;
+  position: absolute;
+}
+#facebook {
+  background-image: url("../images/icon1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#twitter {
+  background-image: url("../images/icon2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#google {
+  background-image: url("../images/icon4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#pintrest {
+  background-image: url("../images/icon3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#LS {
+  height: 100%;
+  width: 14%;
+  margin-right: 2%;
+} 
+
+#LS-1 {
+  height: 60%;
+  width: 8%;
+  margin-top: 12px;
+  margin-right: 1%;
+  font-weight: 900;
+  border-radius: 5%;
+  float: right;
+  color:  black;
+  vertical-align: middle;
+  text-align: center;  
+} 
+
+#LS-1 p {
+  line-height: 0px; 
+  font-size: 1.7em;
+  margin-top: 19px;
+} 
+#LS-2 {
+  height: 60%;
+  width: 8%;
+  margin-top: 12px;
+  margin-right: 1%;
+  font-weight: 900;
+  border-radius: 5%;
+  float: right;
+  color:  black;
+  vertical-align: middle;
+  text-align: center;
+} 
+
+#LS-2 p {
+  line-height: 0px; 
+  font-size: 1.7em;
+  margin-top: 19px;
+} 
+
+#LS-1:hover, #LS-2:hover {
+  color: rgb(255, 153, 0);
+ 
+}
+
+#main {
+  background-image: url(../images/foodBG.png);
+  background-repeat: repeat;
+  height: 1600px;
+  width: 100%;
+}
+#hiddenBoxTop {
+  height: 5%; 
+  width: 100%;
+}
+#addedSec {
+  height: 1600px; 
+  width: 100%; 
+  margin-top: 0px;
+}
+
+
+
+#area1 {
+    width: 60%;
+  height: 5%;
+  margin-top: 0%;
+  margin-left: 20%;
+  text-align: center;
+}
+#area1 p {
+  font-size: 3em;
+  font-weight: 900;
+  color: black;
+  margin-top: 0px;
+  height: 100%;
+  line-height: 100px;
+}
+
+
+
+
+
+#area2 {
+  width: 60%;
+  height: 7%;
+  float: left;
+  margin-top: 25px;
+  margin-left: 20%;
+  background-color: rgb(230, 230, 230);
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  
+}
+#titleUnder1 {
+font-size: 2.5em; 
+font-weight: 900; 
+line-height: 70px;
+color: black;
+margin-top: 0px;
+height: 50%;
+  text-align: center;
+}
+#titleUnder2 {
+line-height: 45px; 
+margin-top: 0px;
+height: 50%;
+background-color: rgba(132, 45, 200, 0.5);
+}
+
+
+/*
+/////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+*/
+
+#titleGood {
+  font-size: 1.8em;
+  font-weight: 900;
+  color: black;
+  text-align: center;
+  line-height: 73px;
+}
+#titleBad {
+  font-size: 1.8em;
+  font-weight: 900;
+  color: black;
+  text-align: center;
+  line-height: 73px;
+}
+
+
+
+#area3 {
+  width: 80%;
+  height: 57%;
+  margin-top: 155px;
+  margin-left: 10%;
+}
+#upperRow {
+  width: 100%;
+  height: 27%;
+}
+#selection1a {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 5%;
+}
+#foodTitle1 {
+  position: absolute;
+  margin-left: 3.6%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic1 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up1 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down1 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+#selection2a {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle2 {
+  position: absolute;
+  margin-left: 39px;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic2 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up2 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down2 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+#selection3a {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle3 {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic3 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up3 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down3 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+
+
+/*
+/////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+*/
+
+#bottomRow {
+  width: 100%;
+  height: 27%;
+}
+#selection1b {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 5%;
+}
+#foodTitle4 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic4 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up4 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down4 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#selection2b {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle5 {
+  position: absolute;
+  margin-left: 3.6%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic5 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up5 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down5 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#selection3b {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle6 {
+  position: absolute;
+  margin-left: 3.6%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic6 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+
+}
+#up6 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down6 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+/*
+/////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+*/
+
+#upperRow2 {
+  width: 100%;
+  height: 27%;
+}
+#selection1c {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 5%;
+}
+
+#foodTitle7 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic7 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up7 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down7 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#selection2c {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle8 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic8 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up8 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down8 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#selection3c {
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 10%;
+}
+#foodTitle9 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 0px;
+  color: black;
+  font-size: 2.6em;
+  font-weight: 900;
+}
+#foodPic9 {
+  width: 70%;
+  height: 78%;
+  margin-top: 15%;
+  margin-left: 0%;
+  background-color: rgb(217, 217, 217);
+  border: 5px solid black;
+}
+#up9 {
+  width: 26%;
+  height: 28%;
+  border-radius: 50%;
+  margin-top: -59%;
+  margin-left: 73%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+#down9 {
+  width: 26%;
+  height: 28%;
+  margin-top: 4%;
+  float: right;
+  border-radius: 50%;
+  background-color: rgb(217, 217, 217);
+  background-image: url(../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+/*
+/////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+*/
+
+#bottomRow2 {
+  width: 100%;
+  height: 50%;
+  margin-top: 28px;
+  background-color: rgba(255,0,0,0.5);
+}
+#leftSec {
+  width: 50%;
+  height: 100%;
+  background-color: rgba(0,255,0,0.3);
+  float: left;
+}
+#titleBR1 {
+  width: 100%;
+  height: 20%;
+  background-color: rgba(255,0,0,0.5);
+  line-height: 87px;
+  font-size: 3em;
+  font-weight: 900;
+  text-align: center;
+}
+#topBR1 {
+  width: 100%;
+  height: 10%;
+  background-color: rgba(0,0,0,1);
+}
+#bottomBR1 {
+  width: 100%;
+  height: 70%;
+  background-color: rgba(0,0,0,0.5);
+}
+#rightSec {
+  width: 50%;
+  height: 100%;
+  background-color: rgba(0,0,255,0.3);
+  float: right;
+}
+#topBR2 {
+  width: 100%;
+  height: 20%;
+  background-color: rgba(255,255,255,0.5);
+  line-height: 87px;
+  font-size: 3em;
+  font-weight: 900;
+  text-align: center;
+}
+#bottomBR2 {
+  width: 100%;
+  height: 80%;
+  background-color: rgba(0,0,255,0.5);
+}
+/*
+//////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
+*/ 
+
+
+#area4 {
+  width: 20%;
+  height: 9%;
+  margin-top: 22px;
+  margin-left: 39.5%;
+  background-color: rgb(255, 154, 4);
+  border-radius: 10px;
+}
+#area4 p {
+  color: white;
+  font-size: 4em;
+  margin-left: 3.6%;
+  margin-top: 38px;
+  float: left;
+  height: 0%;
+  line-height: 0px;
+  position: absolute;
+}
+
+
+
+
+
+footer {
+  height: 3%;
+  width: 100%;
+  background-color: rgb(34, 178, 253);
+}
+#bottomInfo {
+  height: 100%;
+  width: 80%;
+  font-size: 1.3em;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#bottomInfo p {
+  color: white;
+  margin-top: 11px;
+  margin-left: 37px;
+  width: 41%;
+  position: absolute;
+}
+#bottomInfo2 {
+  height: 73%;
+  width: 46%;
+  font-size: 1.2em;
+  margin-top: 9px;
+  margin-right: 11px;
+  float: right;
+}
+
+#bottomInfo2 a {
+ color: white;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+
+#bottomInfo2 a:hover {
+ color: black;
+}
+#smIconsBottom {
+  height: 5%;
+  width: 18%;
+  margin-top: 0px;
+  margin-left: 78%;
+  position: absolute;
+}
