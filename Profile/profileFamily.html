@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meal Plan</title>
+<link rel="stylesheet" type="text/css" href="css/profileFamilyCSS.css">
+
+<!-- Changes for different window sizes -->
+<!-- <link rel='stylesheet' media='screen and (min-width: 1800px) and (max-width:2000px)' href='css/1920x1080.css' />
+<link rel='stylesheet' media='screen and (min-width: 1640px) and (max-width:1800px)' href='css/1680x1050.css' />
+<link rel='stylesheet' media='screen and (min-width: 1501px) and (max-width:1640px)' href='css/1600x900.css' />
+<link rel='stylesheet' media='screen and (min-width: 1410px) and (max-width:1500px)' href='css/1440x900.css' />
+<link rel='stylesheet' media='screen and (min-width: 1301px) and (max-width:1409px)' href='css/1366x768.css' />
+<link rel='stylesheet' media='screen and (min-width: 1200px) and (max-width:1300px)' href='css/1280x1024.css' />
+<link rel='stylesheet' media='screen and (min-width: 950px) and (max-width:1199px)' href='css/1024x768.css' />
+<link rel='stylesheet' media='screen and (min-width: 700px) and (max-width:949px)' href='css/768x1024.css' />
+<link rel='stylesheet' media='screen and (max-width: 699px)' href='css/360x640.css' /> -->
+</head>
+
+<body>
+	<header>
+		<div id="companyName">
+				<p>
+					Mealple
+				</p>
+				
+		</div>
+		<div id="navBar">
+			<p style="">
+				Home
+			</p>
+			<p id="">
+				CookBook
+			</p>
+			<p id="">
+				Grocerry List
+			</p>
+			<p style="">
+				Kitchen
+			</p>
+			<p style="background-color: #ffa800;">
+				Family
+			</p>
+			<div id="navBarRight">
+			<p id="settings">
+				
+			</p>
+			<p id="usersName">
+				Hi, Felix
+			</p>
+			<p id="userArrow">
+				
+			</p>
+		</div>
+		</div>
+		
+	</header>
+
+	<div id="main">
+		<div class="contentHolder">
+			
+			<div class="topHolderSec">
+				<div class="topHolderSecInner">
+					<div class="topHolderSecInner" id="one">
+						<div class="topTitle" id="one">
+							Create
+						</div>
+						<div class="imageHolder">
+							<div class="createDecide">
+								<p>
+									<span class="name" id="one">
+										New Group
+									</span>
+									<span class="smallAddBtn" id="one">
+									</span>
+								</p>
+								<p>
+									<span class="name" id="one">
+										New Person
+									</span>
+									<span class="smallAddBtn" id="two">
+									</span>
+								</p>
+							</div>
+							<div class="createArea">
+								<div class="createGroupSec">
+									<form>
+										<p class="inputTitleGroup">
+											Name:
+										</p>
+										<input type="text" name="gName" id="gName">
+									</form>
+								</div>
+								<div class="createPersonSec">
+									<form>
+										<p class="inputTitlePerson">
+											Name:
+										</p>
+										<input type="text" name="pName" id="pName">
+										<p class="inputTitlePerson" id="two">
+											Choose a group:
+										</p>
+										<select id="pMenu">
+  											<option value="v1">Family</option>
+  											<option value="v2">Friend</option>
+  											<option value="v3">Room Mates</option>
+										</select>
+										<p class="photoPerson">
+											
+										</p>
+										<input type="file" name="pic" accept="image/*" id="pickFIle">
+									</form>
+								</div>
+							</div>
+							<div class="createBtn">
+							</div>
+						</div>
+					</div>
+					<div class="topHolderSecInner" id="two">
+						<div class="topTitle" id="two">
+							Groups
+						</div>
+						<div class="nfHolder">
+							<ul>
+								<li>Family</li>
+								<li>Friends</li>
+								<li>Room Mate</li>
+							</ul>
+						</div>
+					</div>
+					<div class="topHolderSecInner" id="three">
+						<div class="topTitle" id="three">
+							Find
+						</div>
+						<div class="smHolder">
+							<div class="searchBarArea">
+								
+							</div>
+								<form action="">
+		
+									<div class="findSecHolder">
+										<div class="findSec">
+										<input type="radio" name="sex" value="group">
+										<p>My Groups</p>
+									</div>
+									<div class="findSec">
+										<input type="radio" name="sex" value="near">
+										<p>Near Me</p>
+									</div>
+									<div class="findSec">
+										<input type="radio" name="sex" value="everyone">
+										<p>Everyone</p>
+									</div>
+									</div>
+									
+								</form>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="bottomSec">
+				<div class="bottomTitle">
+						Search Results ## Users
+				</div>
+				<div class="rowSection">
+					<div class="userRow" id="r1">
+						<div class="userSelect" id="u1">
+							<div class="userPic" id="p1">
+							
+							</div>
+							<div class="userName" id="p1">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u2">
+							<div class="userPic" id="p2">
+							
+							</div>
+							<div class="userName" id="p2">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u3">
+							<div class="userPic" id="p3">
+							
+							</div>
+							<div class="userName" id="p3">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u4">
+							<div class="userPic" id="p4">
+							
+							</div>
+							<div class="userName" id="p4">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u5">
+							<div class="userPic" id="p5">
+							
+							</div>
+							<div class="userName" id="p5">
+								Name
+							</div>
+						</div>
+					</div>
+					<div class="userRow" id="r2">
+						<div class="userSelect" id="u1">
+							<div class="userPic" id="p6">
+							
+							</div>
+							<div class="userName" id="p6">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u2">
+							<div class="userPic" id="p7">
+							
+							</div>
+							<div class="userName" id="p7">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u3">
+							<div class="userPic" id="p8">
+							
+							</div>
+							<div class="userName" id="p8">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u4">
+							<div class="userPic" id="p9">
+							
+							</div>
+							<div class="userName" id="p9">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u5">
+							<div class="userPic" id="p10">
+							
+							</div>
+							<div class="userName" id="p10">
+								Name
+							</div>
+						</div>
+					</div>
+					<div class="userRow" id="r3">
+						<div class="userSelect" id="u1">
+							<div class="userPic" id="p11">
+							
+							</div>
+							<div class="userName" id="p11">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u2">
+							<div class="userPic" id="p12">
+							
+							</div>
+							<div class="userName" id="p12">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u3">
+							<div class="userPic" id="p13">
+							
+							</div>
+							<div class="userName" id="p13">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u4">
+							<div class="userPic" id="p14">
+							
+							</div>
+							<div class="userName" id="p14">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u5">
+							<div class="userPic" id="p15">
+							
+							</div>
+							<div class="userName" id="p15">
+								Name
+							</div>
+						</div>
+					</div>
+					<div class="userRow" id="r4">
+						<div class="userSelect" id="u1">
+							<div class="userPic" id="p16">
+							
+							</div>
+							<div class="userName" id="p16">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u2">
+							<div class="userPic" id="p17">
+							
+							</div>
+							<div class="userName" id="p17">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u3">
+							<div class="userPic" id="p18">
+							
+							</div>
+							<div class="userName" id="p18">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u4">
+							<div class="userPic" id="p19">
+							
+							</div>
+							<div class="userName" id="p19">
+								Name
+							</div>
+						</div>
+						<div class="userSelect" id="u5">
+							<div class="userPic" id="p20">
+							
+							</div>
+							<div class="userName" id="p20">
+								Name
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	
+
+	<footer>
+		<div id="bottomInfo">
+				<p>
+					Copyright &#169 2015 MEALPLE Software Corp. All Rights Reseved -
+				</p>
+				<div id="bottomInfo2">
+					<a href="">
+						Terms of Service
+					</a>
+					<a href="">
+						- Privacy Policy -
+					</a>
+					<a href="">
+						Contact us
+					</a>
+				</div>
+				<div id="smIconsBottom">
+					<a href="" id="facebook"></a>
+					<a href="" id="twitter"></a>
+					<a href="" id="google"></a>
+					<a href="" id="pintrest"></a>
+				</div>
+			</div>
+
+	</footer>
+</body>
+</html>
