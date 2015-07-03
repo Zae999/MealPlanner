@@ -1,0 +1,484 @@
+html {
+	height:100%;
+	width:100%;
+}
+body  {
+	height:100%;
+	width:100%;
+	margin: 0px;
+}
+header {
+	height: 40px;
+	width: 100%;
+	background-color: #454545;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+#companyName {
+  height: 100%;
+  width: 19%;
+  margin-left: -4%;
+  float: left;
+  color: rgb(255, 154, 4);
+}
+
+#companyName p { 
+  font-size: 2.2em;
+  margin-top: -2px;
+  margin-left: 39%;
+  font-weight: 900;
+}
+#navBar {
+  height: 100%;
+  width: 80%;
+  margin-left: 15%;
+}
+#navBar p {
+  height: 100%;
+  width: 16.8%;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+}
+#navBar p:hover {
+  background-color: #ffa800;
+}
+
+#navBarRight {
+  height: 100%;
+  width: 16%;
+  float: left;
+  margin-left: 0%;
+  margin-top: 0%;
+}
+#navBarRight #settings {
+  height: 99%;
+  width: 25%;
+  background-image: url(../images/settingsIcon.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+}
+#navBarRight #settings:hover {
+  background-color: #454545;
+  background-image: url(../images/settingsIconBlue.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+#navBarRight #usersName {
+  height: 99%;
+  width: 65%;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+  font-size: 1.1em;
+  color: white;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 40px;
+}
+#navBarRight #usersName:hover {
+  background-color: #454545;
+  color: #23dbff;
+}
+#navBarRight #userArrow {
+  height: 99%;
+  width: 10%;
+  background-image: url(../images/down.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  margin-left: -28%;
+  margin-top: 1%;
+  float: left;
+}
+#navBarRight #userArrow:hover {
+  background-color: rgba(69, 69, 69, 0.1);
+  height: 97%;
+}
+
+
+#smIcons {
+  height: 8%;
+  width: 18%;
+  margin-top: 0px;
+  margin-left: 62%;
+  position: absolute;
+}
+#facebook {
+  background-image: url("../images/icon1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#twitter {
+  background-image: url("../images/icon2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#google {
+  background-image: url("../images/icon4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#pintrest {
+  background-image: url("../images/icon3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+#main {
+  background-color: #454545;
+  height: 900px;
+  width: 100%;
+}
+#hiddenBoxTop {
+  height: 5%; 
+  width: 100%;
+}
+.contentHolder {
+  height: 900px; 
+  width: 100%; 
+  margin-top: 0px;
+}
+
+
+
+
+
+.topHolderSec {
+  height: 400px; 
+  width: 100%; 
+  margin-top: 0px;
+  margin-left: 0px;
+  background-color: rgba(255,255,255,0.5);
+}
+.topHolderSecInner {
+  height: 400px; 
+  width: 50%; 
+  margin-top: -16px;
+  margin-left: 0px;
+  float: left;
+}
+.topHolderSecInner#one {
+  background-color: rgba(70,200,12,0.5);
+}
+.topTitle {
+  height: 45px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 45px;
+  font-size: 1.8em;
+  color: black;
+  font-weight: 900;
+  margin-top: 5%;
+
+}
+.topMainBody#one {
+  height: 70%;
+  width: 50%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 25%;
+}
+.topMainBodyInnerTitle {
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  font-size: 1.1em;
+  color: white;
+  font-weight: 900;
+  margin-top: 0%;
+
+}
+.topMainBodyInnerTitle #left {
+  height: 100%;
+  width: 70%;
+  background-color: red;
+  float: left;
+  line-height: 40px;
+  font-size: 1.8em;
+}
+.topMainBodyInnerTitle #right {
+  height: 100%;
+  width: 30%;
+  background-color: blue;
+  float: left;
+  line-height: 18px;
+  font-size: 1.2em;
+}
+.topListArea {
+  height: 86%;
+  width: 100%;
+  background-color: aqua;
+  margin-top: 0%;
+  margin-left: 0%;
+}
+.topListArea ul {
+  height: 100%;
+  width: 89%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 0%;
+  list-style: none;
+  overflow-y: scroll;
+}
+.topListArea li {
+  height: 11%;
+  width: 113%;
+  margin-top: 2%;
+  margin-left: -13%;
+  display: inline-block;
+}
+.leftList {
+  height: 100%;
+  width: 73%;
+  background-color: darkgoldenrod;
+  float: left;
+  margin-top: 0%;
+}
+.rightList {
+  height: 100%;
+  width: 27%;
+  background-color: indigo;
+  float: left;
+  margin-top: 0%;
+}
+.buttonArea {
+  height: 30px;
+  width: 30%;
+  background-color: indigo;
+  margin-top: 1%;
+  margin-left: 35%;
+}
+.down {
+  height: 100%;
+  width: 50%;
+  background-color: white;
+  float: left;
+}
+.up {
+  height: 100%;
+  width: 50%;
+  background-color: aqua;
+  float: left;
+}
+.topHolderSecInner#two {
+  background-color: rgba(120,0,200,0.5);
+}
+.topMainBody#two {
+  height: 70%;
+  width: 50%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 25%;
+}
+
+
+
+
+
+
+
+.bottomHolderSec {
+  height: 400px; 
+  width: 100%; 
+  margin-top: 0px;
+  margin-left: 0px;
+  background-color: rgba(0,0,255,0.5);
+}
+.bottomHolderSecInner {
+  height: 400px; 
+  width: 100%; 
+  margin-top: 0px;
+  margin-left: 0px;
+  float: left;
+}
+.bottomHolderSecInner#one {
+  width: 33.3333%;
+  background-color: orange;
+}
+.bottomTitle {
+  height: 45px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 45px;
+  font-size: 1.8em;
+  color: black;
+  font-weight: 900;
+  margin-top: 5%;
+  
+}
+.imageHolder {
+  height: 60%;
+  width: 60%;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 20%;
+}
+.servingSizeHolder {
+  height: 15.5%;
+  width: 60%;
+  background-color: blue;
+  margin-top: 2%;
+  margin-left: 20%;
+}
+.bottomHolderSecInner#two {
+  width: 33.3333%;
+  background-color: gray;
+}
+.nfHolder {
+  height: 75%;
+  width: 80%;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.bottomHolderSecInner#three {
+  width: 33.3333%;
+  background-color: yellow;
+}
+.bottomTitle#three {
+  height: 45px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 45px;
+  font-size: 1.8em;
+  color: black;
+  font-weight: 900;
+  margin-top: 5%;
+  
+}
+.smHolder {
+  height: 75%;
+  width: 80%;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  height: 44px;
+  width: 100%;
+  background-color: rgb(34, 178, 253);
+}
+#bottomInfo {
+  height: 100%;
+  width: 80%;
+  font-size: 1.3em;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#bottomInfo p {
+  color: white;
+  margin-top: 11px;
+  margin-left: 37px;
+  width: 41%;
+  position: absolute;
+}
+#bottomInfo2 {
+  height: 73%;
+  width: 46%;
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-right: 11px;
+  float: right;
+}
+
+#bottomInfo2 a {
+ color: white;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+
+#bottomInfo2 a:hover {
+ color: black;
+}
+#smIconsBottom {
+  height: 5%;
+  width: 18%;
+  margin-top: 8px;
+  margin-left: 78%;
+  position: absolute;
+}
