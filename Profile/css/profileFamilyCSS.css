@@ -165,7 +165,7 @@ header {
 
 #main {
   background-color: #454545;
-  height: 1100px;
+  height: 1200px;
   width: 100%;
 }
 #hiddenBoxTop {
@@ -173,7 +173,7 @@ header {
   width: 100%;
 }
 .contentHolder {
-  height: 1100px; 
+  height: 1200px; 
   width: 100%; 
   margin-top: 0px;
 }
@@ -360,7 +360,22 @@ header {
   background-color: red;
   margin-top: 0%;
   margin-left: 0%;
+  margin-bottom: 0%;
 }
+.createBtn p {
+  height: 30px;
+  width: 80px;
+  border-radius: 5px;
+  background-color: blue;
+  margin-left: 7%;
+  margin-top: 8px;
+  position: absolute;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  font-size: 1.3em;
+  }
 .topHolderSecInner#two {
   width: 33.3333%;
   background-color: gray;
@@ -459,7 +474,7 @@ header {
 
 
 .bottomSec {
-  height: 800px; 
+  height: 900px; 
   width: 100%; 
   margin-top: 0px;
   margin-left: 0px;
@@ -534,7 +549,21 @@ header {
   line-height: 28px;
   color: white;
 }
-
+#nextPage {
+  height: 35px;
+  width: 100px;
+  background-color: red;
+  color: white;
+  float: right;
+  margin-right: 5%;
+  margin-top: 820px;
+  font-weight: 900;
+  font-size: 1.3em;
+  text-align: center;
+  border-radius: 5px;
+  vertical-align: middle;
+  line-height: 30px;
+}
 
 
 

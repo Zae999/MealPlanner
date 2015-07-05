@@ -1,0 +1,484 @@
+html {
+	height:100%;
+	width:100%;
+}
+body  {
+	height:100%;
+	width:100%;
+	margin: 0px;
+}
+header {
+	height: 40px;
+	width: 100%;
+	background-color: #454545;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+#companyName {
+  height: 100%;
+  width: 19%;
+  margin-left: -4%;
+  float: left;
+  color: rgb(255, 154, 4);
+}
+
+#companyName p { 
+  font-size: 2.2em;
+  margin-top: -2px;
+  margin-left: 39%;
+  font-weight: 900;
+}
+#navBar {
+  height: 100%;
+  width: 80%;
+  margin-left: 15%;
+}
+#navBar p {
+  height: 100%;
+  width: 16.8%;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+}
+#navBar p:hover {
+  background-color: #ffa800;
+}
+
+#navBarRight {
+  height: 100%;
+  width: 16%;
+  float: left;
+  margin-left: 0%;
+  margin-top: 0%;
+}
+#navBarRight #settings {
+  height: 99%;
+  width: 25%;
+  background-image: url(../images/settingsIcon.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+}
+#navBarRight #settings:hover {
+  background-color: #454545;
+  background-image: url(../images/settingsIconBlue.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+#navBarRight #usersName {
+  height: 99%;
+  width: 65%;
+  margin-left: 0%;
+  margin-top: 0%;
+  float: left;
+  font-size: 1.1em;
+  color: white;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 40px;
+}
+#navBarRight #usersName:hover {
+  background-color: #454545;
+  color: #23dbff;
+}
+#navBarRight #userArrow {
+  height: 99%;
+  width: 10%;
+  background-image: url(../images/down.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  margin-left: -28%;
+  margin-top: 1%;
+  float: left;
+}
+#navBarRight #userArrow:hover {
+  background-color: rgba(69, 69, 69, 0.1);
+  height: 97%;
+}
+
+
+#smIcons {
+  height: 8%;
+  width: 18%;
+  margin-top: 0px;
+  margin-left: 62%;
+  position: absolute;
+}
+#facebook {
+  background-image: url("../images/icon1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#twitter {
+  background-image: url("../images/icon2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#google {
+  background-image: url("../images/icon4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+#pintrest {
+  background-image: url("../images/icon3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+#main {
+  background-color: #454545;
+  height: 716px;
+  width: 100%;
+}
+
+
+
+
+.underNavSec {
+  height: 40px;
+  width: 100%;
+  top: 0%;
+  margin-left: 0%;
+  background-color: darkkhaki;
+}
+.underNavSecInnerArea {
+  height: 100%;
+  width: 30%;
+  top: 0%;
+  margin-left: 35%;
+  background-color: crimson;
+}
+.underNavSecInnerArea p {
+  height: 100%;
+  width: 33.33%;
+  margin-top: -3.8%;
+  margin-left: 0%;
+  float: left;
+  background-color: black;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  font-size: 1.3em;
+  font-weight: 900;
+}
+.underNavSecInnerArea p:hover {
+  background-color: aqua;
+  color: black;
+}
+
+
+
+
+.leftSec {
+  height: 676px;
+  width: 50%;
+  margin-top: 0%;
+  margin-left: 0%;
+  background-color: black;
+  color: white;
+  position: absolute;
+    overflow-y: scroll;
+}
+.leftOuterRow {
+  height: 250px;
+  width: 100%;
+  line-height: 45px;
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 0%;
+  background-color: darkolivegreen;
+}
+.titleOR {
+  height: 55px;
+  width: 100%;
+  line-height: 55px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0%;
+  background-color: lime;
+  font-size: 2.1em;
+  font-weight: 900;
+}
+.Meals {
+  height: 175px;
+  width: 50%;
+  line-height: 35px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 25%;
+  background-color: aqua;
+  color: black;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+.nameMeal {
+  height: 35px;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.nameMeal:hover {
+  background-color: crimson;
+}
+
+
+
+.rightSec {
+  height: 676px;
+  width: 50%;
+  margin-top: 0%;
+  margin-left: 50%;
+  background-color: white;
+  position: absolute;
+  overflow-y: scroll;
+}
+.titleName {
+  height: 45px;
+  width: 100%;
+  line-height: 45px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0%;
+  background-color: lime;
+  font-size: 2.1em;
+  font-weight: 900;
+}
+.photoSec {
+  height: 260px;
+  width: 350px;
+  margin-top: 10%;
+  margin-left: 25%;
+  background-color: crimson;
+  position: absolute;
+}
+.titlePrepTime {
+  height: 45px;
+  width: 100%;
+  line-height: 45px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 0%;
+  background-color: lime;
+  font-size: 1.4em;
+  font-weight: 900;
+}
+.titleLeftI {
+  height: 45px;
+  width: 55.1%;
+  line-height: 45px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 5%;
+  background-color: aqua;
+  font-size: 1.6em;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+}
+.titleMiddleI {
+  height: 45px;
+  width: 10%;
+  line-height: 47px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 60.1%;
+  background-color: aqua;
+  font-size: 1.4em;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+}
+.titleRightI {
+  height: 45px;
+  width: 20%;
+  line-height: 23px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 70.1%;
+  background-color: aqua;
+  font-size: 1.2em;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+}
+.listI {
+  height: 300px;
+  width: 85.3%;
+  line-height: 23px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 66.8%;
+  margin-left: 5%;
+  background-color: aquamarine;
+  font-size: 1.2em;
+  font-weight: 900;
+}
+.titleNameI {
+  height: 45px;
+  width: 64.6%;
+  line-height: 45px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 0%;
+  margin-left: 0%;
+  background-color: aqua;
+  font-size: 1.2em;
+  font-weight: 700;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+}
+.titleQtyI {
+  height: 45px;
+  width: 11.6%;
+  line-height: 47px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 0%;
+  margin-left: 64.6%;
+  background-color: aqua;
+  font-size: 1.2em;
+  font-weight: 700;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+}
+.titleHaveI {
+  height: 45px;
+  width: 23.3%;
+  line-height: 47px;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  margin-top: 0%;
+  margin-left: 76.3%;
+  background-color: aqua;
+  font-size: 1.2em;
+  font-weight: 700;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+}
+.row {
+  height: 45px;
+  width: 100%;
+  margin-top: 0px;
+  border-bottom: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  height: 44px;
+  width: 100%;
+  background-color: rgb(34, 178, 253);
+}
+#bottomInfo {
+  height: 100%;
+  width: 80%;
+  font-size: 1.3em;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#bottomInfo p {
+  color: white;
+  margin-top: 11px;
+  margin-left: 37px;
+  width: 41%;
+  position: absolute;
+}
+#bottomInfo2 {
+  height: 73%;
+  width: 46%;
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-right: 11px;
+  float: right;
+}
+
+#bottomInfo2 a {
+ color: white;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+
+#bottomInfo2 a:hover {
+ color: black;
+}
+#smIconsBottom {
+  height: 5%;
+  width: 18%;
+  margin-top: 0px;
+  margin-left: 78%;
+  position: absolute;
+}
