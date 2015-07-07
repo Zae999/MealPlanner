@@ -1,0 +1,32 @@
+#main {
+  height: 892px;
+}
+#area3 {
+  width: 35%;
+  height: 47%;
+  margin-top: 276px;
+  margin-left: 32.5%;
+}
+#area4 {
+  margin-top: 70px;
+  margin-left: 39.5%;
+  height: 13%;
+}
+#area4 p {
+  margin-left: 6.5%;
+  line-height: 25px;
+}
+#bottomInfo p {
+  color: white;
+  margin-top: 17px;
+  margin-left: 104px;
+  width: 35%;
+  position: absolute;
+}
+#bottomInfo2 {
+  height: 73%;
+  width: 46%;
+  font-size: 1.2em;
+  margin-top: 12px;
+  margin-right: 12px;
+}

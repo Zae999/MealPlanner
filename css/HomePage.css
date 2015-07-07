@@ -8,7 +8,7 @@ body  {
 	margin: 0px;
 }
 header {
-	height: 8%;
+	height: 63px;
 	width: 100%;
 	background-color: rgb(247,247,247);
 }
@@ -76,14 +76,16 @@ header {
   height: 89%;
   width: 33.3%;
 }
-#q1:hover {
-  color: orange;
+#q1 a, #q3 a {
+  text-decoration: none;
+  color: black;
 }
-#q3:hover {
-  color: orange;
+#q1 a:hover, #q3 a:hover {
+  color: rgb(255, 153, 4);
 }
+
 #smIcons {
-  height: 8%;
+  height: 63px;
   width: 18%;
   margin-top: 0px;
   margin-left: 62%;
@@ -99,6 +101,12 @@ header {
   width: 25%;
   float: left;
 }
+#facebook:hover {
+  background-image: url("../images/icon1o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
 #twitter {
   background-image: url("../images/icon2.png");
   background-repeat: no-repeat;
@@ -108,6 +116,12 @@ header {
   height: 100%;
   width: 25%;
   float: left;
+}
+#twitter:hover {
+  background-image: url("../images/icon2o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
 }
 #google {
   background-image: url("../images/icon4.png");
@@ -119,6 +133,11 @@ header {
   width: 25%;
   float: left;
 }
+#google:hover {
+  background-image: url("../images/icon4o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
 #pintrest {
   background-image: url("../images/icon3.png");
   background-repeat: no-repeat;
@@ -128,6 +147,11 @@ header {
   height: 100%;
   width: 25%;
   float: left;
+}
+#pintrest:hover {
+  background-image: url("../images/icon3o.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 #LS {
   height: 100%;
@@ -172,8 +196,13 @@ header {
   margin-top: 19px;
 } 
 
-#LS-1:hover, #LS-2:hover {
-  color: rgb(255, 153, 0);
+#LS-1 a, #LS-2 a {
+  color: black;
+  text-decoration:  none;
+}
+
+#LS-1 a:hover, #LS-2 a:hover {
+  color: rgb(255, 153, 4);
  
 }
 
@@ -1020,8 +1049,8 @@ input {
 
 
 #userCom1 {
-  width: 18%;
-  height: 22%;
+  width: 256px;
+  height: 176px;
   position: absolute;
   margin-top: 1%;
   margin-left: 1%;
@@ -1047,8 +1076,8 @@ border-color: #dad9d9 transparent transparent transparent;
 position: absolute;
 }
 #userPic1 {
-  width: 13%;
-  height: 23%;
+  width: 187px;
+  height: 187px;
   position: absolute;
   margin-top: 16.5%;
   margin-left: 3.6%;
@@ -1077,8 +1106,8 @@ position: absolute;
 
 
 #userCom2 {
-  width: 18%;
-  height: 22%;
+  width: 256px;
+  height: 176px;
   position: absolute;
   margin-top: 1%;
   margin-left: 1%;
@@ -1094,8 +1123,8 @@ position: absolute;
 
 }
 #userPic2 {
-  width: 13%;
-  height: 23%;
+  width: 187px;
+  height: 187px;
   position: absolute;
   margin-top: 16.5%;
   margin-left: 3.6%;
@@ -1122,8 +1151,8 @@ position: absolute;
 
 
 #userCom3 {
-  width: 18%;
-  height: 22%;
+  width: 256px;
+  height: 176px;
   position: absolute;
   margin-top: 1%;
   margin-left: 1%;
@@ -1139,8 +1168,8 @@ position: absolute;
 
 }
 #userPic3 {
-  width: 13%;
-  height: 23%;
+  width: 187px;
+  height: 187px;
   position: absolute;
   margin-top: 16.5%;
   margin-left: 3.6%;
@@ -1192,7 +1221,7 @@ position: absolute;
 
 
 footer {
-  height: 5%;
+  height: 40px;
   width: 100%;
   background-color: rgb(34, 178, 253);
 }
@@ -1229,7 +1258,7 @@ footer {
  color: black;
 }
 #smIconsBottom {
-  height: 5%;
+  height: 40px;
   width: 18%;
   margin-top: 0px;
   margin-left: 78%;

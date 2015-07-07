@@ -1,0 +1,39 @@
+#main {
+	height: 902px;
+}
+#area1 p {
+	font-size: 5em;
+	line-height: 140px;
+}
+#creatAcc {
+	margin-top: -17px;
+	margin-left: -13px;
+}
+#myForm {
+  width: 70%;
+  margin-left: 29%;
+}
+#cb {
+  margin-left: -150px;
+  height: 30px;
+  margin-top: 12px;
+}
+#area3 a {
+  margin-top: 15px;
+}
+#area4 p {
+	margin-left: 34%;
+}
+#bottomInfo {
+  font-size: 1.1em;
+}
+#bottomInfo p {
+	margin-top: 12px;
+	margin-left: 73px;
+	width: 37%;
+}
+#bottomInfo2 {
+  font-size: 1.3em;
+  margin-top: 7px;
+  margin-right: 6px;
+  }

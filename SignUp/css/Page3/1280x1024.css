@@ -1,0 +1,35 @@
+#main {
+  height: 892px;
+}
+#foodTitle1 p, #foodTitle2 p, #foodTitle3 p, #foodTitle4 p {
+  margin-top: 0%;
+  margin-left: 8%;
+}
+#foodTitle5 p, #foodTitle6 p, #foodTitle7 p, #foodTitle8 p {
+  margin-top: 0%;
+  margin-left: 8%;
+}
+#area4 {
+  width: 15%;
+  height: 7%;
+  margin-top: 17px;
+  margin-left: 42.5%;
+}
+#area4 p {
+  font-size: 3.5em;
+  margin-left: 3%;
+  margin-top: 30px;
+  line-height: 2px;
+}
+#bottomInfo {
+  font-size: 1.1em;
+}
+#bottomInfo p {
+  margin-top: 18px;
+  margin-left: 28px;
+  width: 40%;
+}
+#bottomInfo2 {
+  margin-top: 12px;
+  margin-right: 11px;
+  }

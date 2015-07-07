@@ -1,0 +1,48 @@
+#main {
+	height: 867px;
+}
+#company p {
+  margin-left: 6%;
+  }
+#company span {
+  font-size: 1.2em;
+  margin-top: -53px;
+  margin-left: 4.5%;
+}
+#area1 {
+	margin-top: 13%;
+}
+#area1 p {
+	font-size: 4em;
+	line-height: 40px;
+	visibility: visible;
+}
+#titleUnder1 {
+	font-size: 2.7em;
+}
+#titleUnder2 {
+	font-size: 1.7em;
+}
+#myForm {
+  width: 70%;
+  margin-left: 12%;
+}
+#area4 p {
+	margin-left: 25%;
+}
+#bottomInfo {
+	font-size: .8em;
+}
+#bottomInfo p {
+  margin-top: 18px;
+  margin-left: 16px;
+  width: 49%;
+}
+#bottomInfo2 {
+  margin-top: 17px;
+  margin-right: -36px;
+  font-size: 1em;
+}
+#smIconsBottom {
+	margin-left: 80%;
+}

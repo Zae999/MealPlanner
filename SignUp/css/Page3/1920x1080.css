@@ -1,0 +1,32 @@
+#main {
+  height: 918px;
+}
+#foodTitle1 p, #foodTitle2 p, #foodTitle3 p, #foodTitle4 p {
+  margin-top: 0%;
+  margin-left: -18%;
+}
+#foodTitle5 p, #foodTitle6 p, #foodTitle7 p, #foodTitle8 p {
+  margin-top: 0%;
+  margin-left: -18%;
+}
+#area4 {
+  width: 15%;
+  height: 8%;
+  margin-top: 25px;
+  margin-left: 41%;
+}
+#area4 p {
+  font-size: 4em;
+  margin-left: 4.1%;
+  margin-top: 30px;
+  line-height: 12px;
+}
+#bottomInfo p {
+  margin-top: 16px;
+  margin-left: 160px;
+  width: 32%;
+}
+#bottomInfo2 {
+  margin-top: 12px;
+  margin-right: 11px;
+  }

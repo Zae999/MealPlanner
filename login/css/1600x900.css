@@ -1,0 +1,22 @@
+#main {
+	height: 765px;
+}
+#area1 {
+	margin-top: 6%;
+}
+#area1 p {
+	font-size: 4.2em;
+	line-height: 35px;
+}
+#bottomInfo p {
+  margin-top: 16px;
+  margin-left: 26px;
+  width: 37%;
+}
+#bottomInfo2 {
+  margin-top: 12px;
+  margin-right: 65px;
+}
+#smIconsBottom {
+	margin-left: 75%;
+}

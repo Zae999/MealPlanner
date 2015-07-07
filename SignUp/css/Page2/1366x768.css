@@ -1,0 +1,45 @@
+#main {
+  height: 653px;
+}
+#area3 {
+  width: 35%;
+  height: 40%;
+  margin-top: 200px;
+  margin-left: 34.5%;
+}
+#LargeNumber p {
+  line-height: 270px;
+}
+#up {
+  height: 136px;
+  margin-top: 0px;
+  margin-left: 0%;
+}
+#down {
+  height: 136px;
+  margin-top: 136px;
+  margin-right: -20%;
+}
+#area4 {
+  margin-top: 16px;
+  margin-left: 40.5%;
+  height: 9%;
+}
+#area4 p {
+  margin-left: 5.2%;
+  line-height: 4px;
+}
+#bottomInfo p {
+  color: white;
+  margin-top: 8px;
+  margin-left: 13px;
+  width: 44%;
+  position: absolute;
+}
+#bottomInfo2 {
+  height: 73%;
+  width: 46%;
+  font-size: 1.2em;
+  margin-top: 4px;
+  margin-right: -4px;
+}

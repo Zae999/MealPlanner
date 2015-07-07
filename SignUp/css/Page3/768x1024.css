@@ -1,0 +1,60 @@
+#company p {
+  margin-left: 0%;
+}
+#company span {
+  margin-left: 3.5%;
+}
+#main {
+  height: 892px;
+}
+#area1 {
+  width: 80%;
+  margin-left: 10%;
+}
+#area1 p {
+  font-size: 2.2em;
+}
+#area3 {
+  width: 100%;
+  margin-left: -3%;
+}
+#foodPic1 , #foodPic2 , #foodPic3 , #foodPic4  {
+  width: 165px;
+  height: 165px;
+}
+#foodPic5 , #foodPic6 , #foodPic7 , #foodPic8  {
+  width: 165px;
+  height: 165px;
+}
+#foodTitle1 p, #foodTitle2 p, #foodTitle3 p, #foodTitle4 p {
+  margin-top: 0%;
+  margin-left: 19%;
+}
+#foodTitle5 p, #foodTitle6 p, #foodTitle7 p, #foodTitle8 p {
+  margin-top: 0%;
+  margin-left: 19%;
+}
+#area4 {
+  width: 19%;
+  height: 7%;
+  margin-top: 7px;
+  margin-left: 39.5%;
+}
+#area4 p {
+  font-size: 3.5em;
+  margin-left: 2.1%;
+  margin-top: 30px;
+  line-height: 2px;
+}
+#bottomInfo {
+  font-size: .7em;
+}
+#bottomInfo p {
+  margin-top: 22px;
+  margin-left: 9px;
+  width: 42%;
+}
+#bottomInfo2 {
+  margin-top: 19px;
+  margin-right: .3px;
+  }

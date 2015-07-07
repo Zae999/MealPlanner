@@ -65,6 +65,12 @@ header {
   width: 25%;
   float: left;
 }
+#facebook:hover {
+  background-image: url("../images/icon1o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
 #twitter {
   background-image: url("../images/icon2.png");
   background-repeat: no-repeat;
@@ -74,6 +80,12 @@ header {
   height: 100%;
   width: 25%;
   float: left;
+}
+#twitter:hover {
+  background-image: url("../images/icon2o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
 }
 #google {
   background-image: url("../images/icon4.png");
@@ -85,6 +97,11 @@ header {
   width: 25%;
   float: left;
 }
+#google:hover {
+  background-image: url("../images/icon4o.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
 #pintrest {
   background-image: url("../images/icon3.png");
   background-repeat: no-repeat;
@@ -94,6 +111,11 @@ header {
   height: 100%;
   width: 25%;
   float: left;
+}
+#pintrest:hover {
+  background-image: url("../images/icon3o.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 #LS {
   height: 100%;
