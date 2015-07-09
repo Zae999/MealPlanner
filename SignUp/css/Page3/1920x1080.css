@@ -1,5 +1,8 @@
 #main {
-  height: 918px;
+  height: 945px;
+}
+#addedSec {
+  height: 945px;
 }
 #foodTitle1 p, #foodTitle2 p, #foodTitle3 p, #foodTitle4 p {
   margin-top: 0%;

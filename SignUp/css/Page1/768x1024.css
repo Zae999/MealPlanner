@@ -5,7 +5,10 @@
   margin-left: 4.5%;
 }
 #main {
-  height: 907px;
+  height: 908px;
+}
+#addedSec {
+  height: 908px;
 }
 #area1 p {
   font-size: 4.5em;
@@ -20,7 +23,7 @@
   margin-left: 18.5%;
 }
 #cb {
-  margin-left: -150px;
+  margin-left: 0px;
   height: 30px;
   margin-top: 18px;
 }

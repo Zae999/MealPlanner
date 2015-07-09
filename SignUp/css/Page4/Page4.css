@@ -8,9 +8,9 @@ body  {
 	margin: 0px;
 }
 header {
-	height: 10%;
-	width: 100%;
-	background-color: black;
+	height: 80px;
+  width: 100%;
+  background-color: white;
 }
 
 
@@ -178,6 +178,7 @@ header {
   height: 1500px; 
   width: 100%; 
   margin-top: 0px;
+  background-color: rgba(255, 154, 4, 0.35);
 }
 
 
@@ -470,45 +471,6 @@ background-color: rgba(132, 45, 200, 0.5);
   border: 5px solid black;
 }
 
-
-#like1, #like2, #like3, #like4, #like5, #like6 {
-  width: 77px;
-  height: 75px;
-  border-radius: 50%;
-  margin-top: -14%;
-  margin-left: 2%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#like7, #like8, #like9, #like10, #like11, #like12 {
-  width: 77px;
-  height: 75px;
-  border-radius: 50%;
-  margin-top: -14%;
-  margin-left: 2%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#dislike1, #dislike2, #dislike3, #dislike4, #dislike5, #dislike6 {
-  width: 77px;
-  height: 75px;
-  margin-top: -25.5%;
-  margin-right: 2%;
-  float: right;
-  border-radius: 50%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#dislike7, #dislike8, #dislike9, #dislike10, #dislike11, #dislike12 {
-  width: 77px;
-  height: 75px;
-  margin-top: -25.5%;
-  margin-right: 2%;
-  float: right;
-  border-radius: 50%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
 /*
 //////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////
@@ -520,7 +482,7 @@ background-color: rgba(132, 45, 200, 0.5);
   height: 9%;
   margin-top: 90px;
   margin-left: 39.5%;
-  background-color: rgb(255, 154, 4);
+  background-color: rgb(34, 178, 253);
   border-radius: 10px;
 }
 #area4 p {
@@ -533,7 +495,9 @@ background-color: rgba(132, 45, 200, 0.5);
   line-height: 0px;
   position: absolute;
 }
-
+#area4:hover {
+  background-color: rgb(255, 154, 4);
+}
 
 
 

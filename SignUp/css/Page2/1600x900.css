@@ -1,20 +1,23 @@
 #main {
-  height: 765px;
+  height: 775px;
+}
+#addedSec {
+  height: 775px; 
 }
 #area3 {
   width: 35%;
-  height: 47%;
+  height: 319px;
   margin-top: 215px;
   margin-left: 32.5%;
 }
 #area4 {
-  margin-top: 35px;
+  margin-top: 40px;
   margin-left: 39.5%;
-  height: 13%;
+  height: 9%;
 }
 #area4 p {
-  margin-left: 6.5%;
-  line-height: 25px;
+  margin-left: 6%;
+  line-height: 10px;
 }
 #bottomInfo p {
   color: white;

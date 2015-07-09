@@ -10,7 +10,7 @@ body  {
 header {
 	height: 10%;
 	width: 100%;
-	background-color: black;
+	background-color: white;
 }
 
 
@@ -178,6 +178,7 @@ header {
   height: 1600px; 
   width: 100%; 
   margin-top: 0px;
+  background-color: rgba(255, 154, 4, 0.35);
 }
 
 
@@ -741,11 +742,11 @@ background-color: rgba(132, 45, 200, 0.5);
 
 #foodPic1, #foodPic2, #foodPic3, #foodPic4, #foodPic5, #foodPic6, 
 #foodPic7, #foodPic8, #foodPic9 {
-  width: 70%;
-  height: 78%;
+  width: 198px;
+  height: 187px;
   margin-top: 15%;
   margin-left: 0%;
-  background-color: rgb(217, 217, 217);
+  background-color: white;
   border: 5px solid black;
   border-radius: 20px;
 }
@@ -759,11 +760,43 @@ background-color: rgba(132, 45, 200, 0.5);
 }
 
 #up1, #up2, #up3, #up4, #up5, #up6, #up7, #up8, #up9 {
-  width: 26%;
-  height: 28%;
+  width: 72px;
+  height: 72px;
   border-radius: 50%;
-  margin-top: -61%;
-  margin-left: 73%;
+  margin-top: -176px;
+  margin-left: 208px;
+  background-color: rgb(34, 178, 253);
+  background-image: url(../../images/upB.png);
+  background-position: -5px -14px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+#down1, #down2, #down3, #down4, #down5, #down6, #down7, #down8, #down9 {
+  width: 72px;
+  height: 72px;
+  margin-top: 6px;
+  margin-left: 208px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: rgb(34, 178, 253);
+  background-image: url(../../images/downB.png);
+  background-position: -5px -5px;
+  background-size: 85px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+}
+
+
+#up1:hover, #up2:hover, #up3:hover, #up4:hover, #up5:hover,
+ #up6:hover, #up7:hover, #up8:hover, #up9:hover {
+  background-color: rgb(255, 154, 4);
+}
+
+#down1:hover, #down2:hover, #down3:hover, #down4:hover, #down5:hover,
+ #down6:hover, #down7:hover, #down8:hover, #down9:hover {
+  background-color: rgb(255, 154, 4);
 }
 
 
@@ -843,7 +876,7 @@ background-color: rgba(132, 45, 200, 0.5);
   height: 9%;
   margin-top: 22px;
   margin-left: 39.5%;
-  background-color: rgb(255, 154, 4);
+  background-color: rgb(34, 178, 253);
   border-radius: 10px;
 }
 #area4 p {
@@ -855,6 +888,9 @@ background-color: rgba(132, 45, 200, 0.5);
   height: 0%;
   line-height: 0px;
   position: absolute;
+}
+#area4:hover {
+  background-color: rgb(255, 154, 4);
 }
 
 

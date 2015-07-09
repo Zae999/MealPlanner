@@ -8,9 +8,9 @@ body  {
 	margin: 0px;
 }
 header {
-	height: 10%;
-	width: 100%;
-	background-color: black;
+	height: 80px;
+  width: 100%;
+  background-color: white;
 }
 
 
@@ -178,6 +178,7 @@ header {
   height: 680px; 
   width: 100%; 
   margin-top: 0px;
+  background-color: rgba(255, 154, 4, 0.35);
 }
 
 
@@ -237,7 +238,6 @@ background-color: rgba(132, 45, 200, 0.5);
   height: 47%;
   margin-top: 190px;
   margin-left: 32.5%;
-  background-color: rgb(255, 0, 0);
 }
 #up {
   width: 20%;
@@ -276,6 +276,9 @@ background-color: rgba(132, 45, 200, 0.5);
   background-position: center;
   background-size: cover;
 }
+#up:hover, #down:hover {
+  background-color: rgb(255,154,4);
+}
 #LargeNumber {
   width: 80%;
   height: 100%;
@@ -306,7 +309,7 @@ background-color: rgba(132, 45, 200, 0.5);
   height: 9%;
   margin-top: 13px;
   margin-left: 39.5%;
-  background-color: rgb(255, 154, 4);
+  background-color: rgb(34, 178, 253);
   border-radius: 10px;
 }
 #area4 p {
@@ -319,6 +322,9 @@ background-color: rgba(132, 45, 200, 0.5);
   line-height: 0px;
   position: absolute;
 
+}
+#area4:hover {
+  background-color: rgb(255, 154, 4);
 }
 
 

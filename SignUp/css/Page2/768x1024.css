@@ -5,14 +5,20 @@
   margin-left: 4.5%;
 }
 #main {
-  height: 869px;
+  height: 892px;
+}
+#addedSec {
+  height: 892px;
 }
 #area1 p {
   font-size: 1.8em;
 }
+#area2 {
+  height: 16%;
+}
 #area3 {
   width: 35%;
-  height: 40%;
+  height: 273px;
   margin-top: 290px;
   margin-left: 33.5%;
 }

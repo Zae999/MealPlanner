@@ -1,5 +1,8 @@
 #main {
-	height: 918px;
+	height: 945px;
+}
+#addedSec {
+  height: 945px;
 }
 #area1 p {
 	font-size: 5em;
@@ -14,7 +17,7 @@
   margin-left: 35%;
 }
 #cb {
-  margin-left: -150px;
+  margin-left: 0px;
   height: 30px;
   margin-top: 12px;
 }

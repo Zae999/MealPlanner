@@ -1,9 +1,11 @@
-
+#area1 p {
+  font-size: 2.8em;
+}
 #area3 {
   margin-left: 11.5%;
 }
 #area4 {
-  margin-left: 37.5%;
+  margin-left: 40.5%;
 }
 #area4 p {
   margin-left: 3.4%;
@@ -31,44 +33,7 @@
 }
 
 
-#like1, #like2, #like3, #like4, #like5, #like6 {
-  width: 77px;
-  height: 75px;
-  border-radius: 50%;
-  margin-top: -14%;
-  margin-left: 2%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#like7, #like8, #like9, #like10, #like11, #like12 {
-  width: 77px;
-  height: 75px;
-  border-radius: 50%;
-  margin-top: -14%;
-  margin-left: 2%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#dislike1, #dislike2, #dislike3, #dislike4, #dislike5, #dislike6 {
-  width: 77px;
-  height: 75px;
-  margin-top: -23.5%;
-  margin-right: 3.5%;
-  float: right;
-  border-radius: 50%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
-#dislike7, #dislike8, #dislike9, #dislike10, #dislike11, #dislike12 {
-  width: 77px;
-  height: 75px;
-  margin-top: -23.5%;
-  margin-right: 3.5%;
-  float: right;
-  border-radius: 50%;
-  background-color: rgb(217, 217, 217);
-  border: 2px solid black;
-}
+
 
 #bottomInfo {
   font-size: 1.3em;

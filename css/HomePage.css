@@ -290,7 +290,7 @@ header {
   height: 14%;
   margin-top: 2%;
   margin-left: 9.5%;
-  border-bottom: 5px rgb(4, 165, 6) solid;
+  border-bottom: 5px rgb(255, 154, 4) solid;
     text-align: center;
 }
 #y1 span {
@@ -336,13 +336,13 @@ header {
   height: 10%;
   margin-top: 2%;
   margin-left: 9.5%;
-  border-bottom: rgb(34, 178, 253) solid;
+  border-bottom: rgb(255, 154, 4) solid;
     text-align: center;
 }
 #how1 span {
     font-size: 4em;
   font-weight: 900;
-  color: rgb(4, 165, 6);
+  color: black;
 }
 #sec4 p {
   vertical-align: middle;
@@ -800,7 +800,7 @@ header {
   height: 14%;
   margin-top: 2%;
   margin-left: 9.5%;
-  border-bottom: 5px rgb(4, 165, 6) solid;
+  border-bottom: 5px rgb(255, 154, 4) solid;
     text-align: center;
 }
 #what1 span {
@@ -822,7 +822,7 @@ header {
   	text-align: center;
     line-height: 72px;
     font-size: 4.5em;
-    color: rgb(255, 153, 0);
+    color: white;
     text-shadow: 0px 0px 2px blue;
     font-weight: 600;
 }
@@ -880,8 +880,10 @@ input {
   font-size: 24px;
 }
 #cb {
-  margin-left: -150px;
+  margin-left: 0px;
   height: 30px;
+  width: 30px;
+  position: absolute;
 }
 #creatAcc {
   color: white;
@@ -892,7 +894,10 @@ input {
   font-size: 2em;
   border-radius: 10px;
   font-weight: 700;
-  background-color: orange;
+  background-color: rgb(34, 178, 253);
+}
+#creatAcc:hover {
+  background-color: rgb(255, 154, 4);
 }
 
 #userSignUpInfo span {
@@ -902,8 +907,8 @@ input {
 }
 
 #userSignUpInfo a {
-  margin-left: -138px;
-  margin-top: 35px;
+  margin-left: 40px;
+  margin-top: 33px;
   position: absolute;
   font-size: 1.5em;
   text-decoration: none;
@@ -993,8 +998,7 @@ input {
 }
 
 #lstTitle3:hover {
-  color: rgb(230, 138, 0);
-  border-color: rgb(230, 138, 0);
+  background-color: rgb(255, 154, 4);
 
 }
 
@@ -1020,7 +1024,7 @@ input {
 #titleSec9 p {
     font-size: 4em;
   font-weight: 900;
-  color: rgb(4, 165, 6);
+  color: black;
 } 
 
 #areaSec9a {
@@ -1194,7 +1198,7 @@ position: absolute;
 
 #btnLast {
   color: white;
-  background-color: rgb(255, 154, 4);
+  background-color: rgb(34, 178, 253);
   width: 30%;
   height: 10%;
   margin-top: 2%;
@@ -1209,10 +1213,8 @@ position: absolute;
   line-height: 77px;
 }
 #btnLast:hover {
-  color: rgb(34, 178, 253);
+  background-color: rgb(255, 154, 4);
 }
-
-
 
 
 
