@@ -1,0 +1,94 @@
+#main {
+	height: 1295px;
+}
+#addedSec {
+	height: 1295px;
+}
+
+
+#profileSec {
+	height: 214px;
+}
+#familyProfilePic1 {
+	margin-top: -6%;
+}
+#familyProfilePic2, #familyProfilePic3 {
+	margin-top: -29.2%;
+}
+#profileFamliy a {
+	margin-top: -20%;
+}
+
+
+
+
+
+#LeftTriLeft2 {
+border-width: 0 33px 32px 25.5px;
+margin-left: -16.5%;
+margin-top: -1.5%;
+-ms-transform: rotate(52deg); /* IE 9 */
+-webkit-transform: rotate(52deg); /* Safari */
+transform: rotate(52deg); /* Standard syntax */
+}
+#LeftTriLeft3 {
+border-width: 0 41px 44px 40px;
+margin-left: -21.1%;
+margin-top: -2.7%;
+-ms-transform: rotate(48deg); /* IE 9 */
+-webkit-transform: rotate(48deg); /* Safari */
+transform: rotate(48deg); /* Standard syntax */
+}
+#LeftTriCenter {
+border-width: 0 56px 52px 44px;
+margin-left: -19.5%;
+margin-top: -1.5%;
+-ms-transform: rotate(50deg); /* IE 9 */
+-webkit-transform: rotate(50deg); /* Safari */
+transform: rotate(50deg); /* Standard syntax */
+}
+#RightTriCenter {
+border-width: 0 45px 50.95px 57px;
+margin-left: 88.19%;
+margin-top: -32.8%;
+-ms-transform: rotate(311.5deg); /* IE 9 */
+-webkit-transform: rotate(311.5deg); /* Safari */
+transform: rotate(311.5deg); /* Standard syntax */
+}
+#RightTriRight1 {
+border-width: 0 44px 44px 42px;
+margin-left: 87%;
+margin-top: -41%;
+-ms-transform: rotate(315deg); /* IE 9 */
+-webkit-transform: rotate(315deg); /* Safari */
+transform: rotate(315deg); /* Standard syntax */
+}
+#RightTriRight2 {
+border-width: 0 28px 30px 33.95px;
+margin-left: 88.91%;
+margin-top: -35%;
+-ms-transform: rotate(312deg); /* IE 9 */
+-webkit-transform: rotate(312deg); /* Safari */
+transform: rotate(312deg); /* Standard syntax */
+}
+
+
+
+
+
+#FirstMealINSec {
+	height: 71%;
+}
+#FirstMealINSec ul {
+	height: 226px;
+}
+
+
+
+
+
+
+
+#smIconsBottom {
+	margin-top: 0px;
+}

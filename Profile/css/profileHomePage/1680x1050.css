@@ -1,0 +1,94 @@
+#main {
+	height: 1295px;
+}
+#addedSec {
+	height: 1295px;
+}
+
+
+#profileSec {
+	height: 214px;
+}
+#familyProfilePic1 {
+	margin-top: -6%;
+}
+#familyProfilePic2, #familyProfilePic3 {
+	margin-top: -27.2%;
+}
+#profileFamliy a {
+	margin-top: -20%;
+}
+
+
+
+
+
+#LeftTriLeft2 {
+border-width: 0 33px 32px 25.5px;
+margin-left: -14%;
+margin-top: -1.5%;
+-ms-transform: rotate(52deg); /* IE 9 */
+-webkit-transform: rotate(52deg); /* Safari */
+transform: rotate(52deg); /* Standard syntax */
+}
+#LeftTriLeft3 {
+border-width: 0 41px 44px 40px;
+margin-left: -20.1%;
+margin-top: -2.6%;
+-ms-transform: rotate(48deg); /* IE 9 */
+-webkit-transform: rotate(48deg); /* Safari */
+transform: rotate(48deg); /* Standard syntax */
+}
+#LeftTriCenter {
+border-width: 0 56px 52px 44px;
+margin-left: -19%;
+margin-top: -1.5%;
+-ms-transform: rotate(49deg); /* IE 9 */
+-webkit-transform: rotate(49deg); /* Safari */
+transform: rotate(49deg); /* Standard syntax */
+}
+#RightTriCenter {
+border-width: 0 43px 51px 57px;
+margin-left: 88.7%;
+margin-top: -31.4%;
+-ms-transform: rotate(311deg); /* IE 9 */
+-webkit-transform: rotate(311deg); /* Safari */
+transform: rotate(311deg); /* Standard syntax */
+}
+#RightTriRight1 {
+border-width: 0 44px 44px 42px;
+margin-left: 88.15%;
+margin-top: -39%;
+-ms-transform: rotate(315deg); /* IE 9 */
+-webkit-transform: rotate(315deg); /* Safari */
+transform: rotate(315deg); /* Standard syntax */
+}
+#RightTriRight2 {
+border-width: 0 28px 30px 33.95px;
+margin-left: 88.91%;
+margin-top: -33.5%;
+-ms-transform: rotate(312deg); /* IE 9 */
+-webkit-transform: rotate(312deg); /* Safari */
+transform: rotate(312deg); /* Standard syntax */
+}
+
+
+
+
+
+#FirstMealINSec {
+	height: 71%;
+}
+#FirstMealINSec ul {
+	height: 226px;
+}
+
+
+
+
+
+
+
+#smIconsBottom {
+	margin-top: -10px;
+}

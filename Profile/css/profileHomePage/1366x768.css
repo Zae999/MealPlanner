@@ -1,0 +1,99 @@
+#main {
+	height: 1289px;
+}
+#addedSec {
+	height: 1289px;
+}
+
+
+#profileSec {
+
+}
+#familyProfilePic1 {
+
+}
+#familyProfilePic2, #familyProfilePic3 {
+	margin-top: -34.5%;
+}
+#profileFamliy a {
+	margin-top: -26%;
+}
+
+
+
+
+
+#LeftTriLeft2 {
+  border-width: 0 32px 33px 21px;
+  margin-left: -15%;
+  margin-top: -1.47%;
+  -ms-transform: rotate(57.5deg);
+  -webkit-transform: rotate(57.5deg);
+  transform: rotate(57.5deg);
+}
+#LeftTriLeft3 {
+  border-width: 0 42px 43px 30.5px;
+  margin-left: -19%;
+  margin-top: -2%;
+  -ms-transform: rotate(55deg);
+  -webkit-transform: rotate(55deg);
+  transform: rotate(55deg);
+}
+#LeftTriCenter {
+  border-width: 0 54px 53px 40.5px;
+  margin-left: -20%;
+  margin-top: -2%;
+  -ms-transform: rotate(53deg);
+  -webkit-transform: rotate(53deg);
+  transform: rotate(53deg);
+}
+#RightTriCenter {
+  border-width: 0 43px 52px 55.9px;
+  margin-left: 86%;
+  margin-top: -38.8%;
+  -ms-transform: rotate(310deg);
+  -webkit-transform: rotate(310deg);
+  transform: rotate(310deg);
+}
+#RightTriRight1 {
+  border-width: 0 33.5px 39px 46px;
+  margin-left: 85%;
+  margin-top: -45.35%;
+  -ms-transform: rotate(310deg);
+  -webkit-transform: rotate(310deg);
+  transform: rotate(310deg);
+}
+#RightTriRight2 {
+  border-width: 0 20.5px 27px 36px;
+  margin-left: 87%;
+  margin-top: -39%;
+  -ms-transform: rotate(306deg);
+  -webkit-transform: rotate(306deg);
+  transform: rotate(306deg);
+}
+
+
+
+
+
+#FirstMealINSec {
+
+}
+#FirstMealINSec ul {
+
+}
+
+
+
+
+
+
+#bottomInfo {
+	font-size: 1.1em;
+}
+#bottomInfo p {
+	margin-top: 16px;
+}
+#smIconsBottom {
+
+}

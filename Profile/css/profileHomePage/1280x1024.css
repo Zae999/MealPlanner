@@ -1,0 +1,130 @@
+#main {
+  height: 1284px;
+}
+#addedSec {
+  height: 1284px;
+}
+#navBarRight #userArrow {
+  margin-left: -22%;
+}
+
+#profileSec {
+
+}
+#profileNameANDLocation {
+  margin-top: .5%;
+  margin-left: 15%;
+}
+#profileNameANDLocation p{
+  font-size: 1em;
+}
+#profileFamliy {
+  margin-top: 7%;
+  margin-left: 16%;
+  width: 21%;
+}
+#familyProfilePic1 {
+
+}
+#familyProfilePic2, #familyProfilePic3 {
+  margin-top: -35.5%;
+}
+#profileFamliy a {
+  margin-top: -27%;
+  margin-left: 73.5%;
+}
+#profileAboutSec {
+  font-size: 1em;
+}
+
+
+
+
+
+
+#LeftTriLeft2 {
+  border-width: 0 34px 30px 21.5px;
+  margin-left: -19%;
+  margin-top: -0.5%;
+  -ms-transform: rotate(55deg);
+  -webkit-transform: rotate(55deg);
+  transform: rotate(55deg);
+}
+#LeftTriLeft3 {
+  border-width: 0 42px 44px 32.5px;
+  margin-left: -20%;
+  margin-top: -2.5%;
+  -ms-transform: rotate(55deg);
+  -webkit-transform: rotate(55deg);
+  transform: rotate(55deg);
+}
+#LeftTriCenter {
+  border-width: 0 53px 54px 41.5px;
+  margin-left: -21%;
+  margin-top: -2.2%;
+  -ms-transform: rotate(53deg);
+  -webkit-transform: rotate(53deg);
+  transform: rotate(53deg);
+}
+#dayCenter p {
+  height: 69%;
+}
+#RightTriCenter {
+  border-width: 0 40px 49px 56px;
+  margin-left: 85.1%;
+  margin-top: -37.4%;
+  -ms-transform: rotate(309deg);
+  -webkit-transform: rotate(309deg);
+  transform: rotate(309deg);
+}
+#RightTriRight1 {
+  border-width: 0 32.5px 38px 46px;
+  margin-left: 84%;
+  margin-top: -48%;
+  -ms-transform: rotate(310deg);
+  -webkit-transform: rotate(310deg);
+  transform: rotate(310deg);
+}
+#RightTriRight2 {
+  border-width: 0 22.5px 28px 35px;
+  margin-left: 86.2%;
+  margin-top: -42.25%;
+  -ms-transform: rotate(307deg);
+  -webkit-transform: rotate(307deg);
+  transform: rotate(307deg);
+}
+
+
+
+
+
+
+#FirstMealPlan {
+  margin-top: -3.5%;
+}
+#FirstMealINSec {
+
+}
+#FirstMealINSec ul {
+  width: 21%;
+}
+#SecondMealINSec ul {
+  width: 21%;
+}
+#ThirdMealINSec ul {
+  width: 21%;
+}
+
+
+
+
+#bottomInfo {
+  font-size: 1.1em;
+  margin-top: 7px;
+}
+#bottomInfo p {
+
+}
+#smIconsBottom {
+  height: 4%;
+}

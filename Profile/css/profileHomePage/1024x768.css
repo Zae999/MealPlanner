@@ -1,0 +1,188 @@
+#main {
+    height: 1282px;
+}
+#companyName p {
+  margin-left: 29%;
+}
+#navBarRight #userArrow {
+  margin-left: -12%;
+}
+#addedSec {
+    height: 1282px;
+}
+
+
+#profileSec {
+
+}
+#profileNameANDLocation {
+  margin-top: .5%;
+  margin-left: 18%;
+}
+#profileNameANDLocation p{
+  font-size: .9em;
+}
+#profileNameANDLocation #pLocation{
+  margin-top: 30px;
+}
+#profileFamliy {
+  margin-top: 8%;
+  margin-left: 19%;
+  width: 21%;
+}
+#familyProfilePic1 {
+
+}
+#familyProfilePic2 {
+  margin-top: -42.5%;
+}
+
+#familyProfilePic1 {
+  margin-top: -42.5%;
+  height: 50px;
+  width: 50px;
+  margin-top: -7%;
+  margin-left: 2%;
+}
+#pFamNames1 {
+  margin-top: -4%;
+  margin-left: 0%;
+  }
+#familyProfilePic2 {
+  margin-top: -42.5%;
+  height: 50px;
+  width: 50px;
+  margin-left: 34%;
+}
+#pFamNames2 {
+  margin-top: -4%;
+  margin-left: 31%;
+  }
+#familyProfilePic3 {
+  margin-top: -42.5%;
+  height: 50px;
+  width: 50px;
+  margin-left: 64.5%;
+}
+#pFamNames3 {
+  margin-top: -4%;
+  margin-left: 62.5%;
+  }
+
+#profileFamliy a {
+  margin-top: -58%;
+  margin-left: 68.5%;
+}
+#profileAbout {
+  width: 34%;
+  margin-left: 42%;
+}
+#profileAboutSec {
+  font-size: .8em;
+}
+
+
+
+
+
+
+#LeftTriLeft2 {
+  border-width: 0 34px 30px 21.5px;
+  margin-left: -23%;
+  margin-top: -0.5%;
+  -ms-transform: rotate(55deg);
+  -webkit-transform: rotate(55deg);
+  transform: rotate(55deg);
+}
+#dayLeft2 p {
+  text-align: left; 
+  text-indent: 11px;
+}
+#LeftTriLeft3 {
+  border-width: 0 48px 34px 22.5px;
+  margin-left: -25%;
+  margin-top: 2.5%;
+  -ms-transform: rotate(57deg);
+  -webkit-transform: rotate(57deg);
+  transform: rotate(57deg);
+}
+#dayLeft3 p {
+  font-size: 1.5em;
+}
+#LeftTriCenter {
+  border-width: 0 70px 30px 12.9px;
+  margin-left: -21%;
+  margin-top: 8.5%;
+  -ms-transform: rotate(67deg);
+  -webkit-transform: rotate(67deg);
+  transform: rotate(67deg);
+}
+#dayCenter p {
+  height: 69%;
+}
+#dayCenter span {
+  margin-top: -19%;
+}
+#RightTriCenter {
+  border-width: 0 12.9px 30px 70px;
+  margin-left: 80.1%;
+  margin-top: -36.88%;
+  -ms-transform: rotate(292deg);
+  -webkit-transform: rotate(292deg);
+  transform: rotate(292deg);
+}
+#RightTriRight1 {
+  border-width: 0 22.5px 34px 48px;
+  margin-left: 80%;
+  margin-top: -58%;
+  -ms-transform: rotate(304deg);
+  -webkit-transform: rotate(304deg);
+  transform: rotate(304deg);
+}
+#dayRight2 p {
+  text-align: left;
+  text-indent: 38px;
+}
+#RightTriRight2 {
+  border-width: 0 21.5px 30px 34px;
+  margin-left: 82.2%;
+  margin-top: -53.25%;
+  -ms-transform: rotate(305deg);
+  -webkit-transform: rotate(305deg);
+  transform: rotate(305deg);
+}
+
+
+
+
+
+#FirstMealPlan {
+  margin-top: -4.5%;
+}
+
+#FirstMealINSec {
+  height: 73.4%;
+}
+#FirstMealINSec ul {
+  width: 21%;
+}
+#SecondMealINSec ul {
+  width: 21%;
+}
+#ThirdMealINSec ul {
+  width: 21%;
+}
+
+
+
+
+#bottomInfo {
+  font-size: .9em;
+  margin-top: 7px;
+}
+#bottomInfo p {
+    margin-left: 15px;
+}
+#smIconsBottom {
+  height: 4%;
+}
