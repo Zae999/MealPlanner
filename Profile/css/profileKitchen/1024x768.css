@@ -1,0 +1,51 @@
+#main, .contentHolder {
+	height: 938px;
+}
+#navBarRight #userArrow {
+	margin-left: -21%;
+}
+.topHolderSec, .topHolderSecInner {
+	height: 469px;
+}
+.bottomHolderSec, .bottomHolderSecInner {
+	height: 469px;
+}
+
+
+.topListArea ul {
+	
+}
+.topMainBodyInnerTitle #right {
+	font-size: 1em;
+}
+.topMainBody#one, .topMainBody#two {
+  height: 70%;
+  width: 72%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 14.5%;
+}
+.buttonArea {
+	margin-top: 3.5%;
+}
+.imageHolder {
+  height: 57.25%;
+  width: 80%;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+
+
+
+
+#bottomInfo {
+	font-size: 0.9em;
+}
+#bottomInfo2 {
+	margin-right: -16px;
+}
+#smIconsBottom {
+	margin-top: 0px;
+}

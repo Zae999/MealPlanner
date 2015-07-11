@@ -1,0 +1,30 @@
+#main, .contentHolder {
+	height: 938px;
+}
+#navBarRight #userArrow {
+	margin-left: -21%;
+}
+.topHolderSec, .topHolderSecInner {
+	height: 469px;
+}
+.bottomHolderSec, .bottomHolderSecInner {
+	height: 469px;
+}
+
+
+.topListArea ul {
+	width: 87.4%;
+}
+.topMainBodyInnerTitle #right {
+	font-size: .9em;
+}
+.buttonArea {
+	margin-top: 5%;
+}
+
+
+#bottomInfo {
+	font-size: 1.1em;}
+#smIconsBottom {
+	margin-top: 0px;
+}

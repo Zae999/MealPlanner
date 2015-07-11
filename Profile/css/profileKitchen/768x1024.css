@@ -1,0 +1,104 @@
+#main, .contentHolder {
+	height: 2016px;
+}
+#companyName p {
+	font-size: 2em;
+	margin-left: 30%;
+}
+#navBarRight #settings {
+	margin-left: 0%;
+	background-size: 20px;
+}
+#navBarRight #usersName {
+	margin-left: 5%;
+	font-size: .8em;
+}
+#navBarRight #userArrow {
+	margin-left: -9%;
+	background-size: 20px;
+}
+.topHolderSec {
+	height: 816px;
+	width: 100%;
+	}
+.topHolderSecInner {
+	height: 408px;
+	width: 100%;
+}
+.bottomHolderSec, .bottomHolderSecInner {
+	height: 400px;
+	width: 100%;
+}
+.bottomHolderSecInner#one {
+	width: 100%;
+}
+.bottomHolderSecInner#two {
+	width: 100%;
+}
+.nfHolder {
+  height: 70%;
+  width: 70%;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.bottomHolderSecInner#three {
+	width: 100%;
+}
+.smHolder {
+  height: 70%;
+  width: 70%;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.topListArea ul {
+	width: 92.6%;
+}
+.topMainBodyInnerTitle #right {
+	font-size: 1em;
+}
+.topMainBody#one, .topMainBody#two {
+  height: 70%;
+  width: 72%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 14.5%;
+}
+.topHolderSecInner#one{
+	margin-top: -16px;
+}
+.topHolderSecInner#two{
+	margin-top: 0px;
+}
+.buttonArea {
+  height: 30px;
+  width: 30%;
+  margin-top: 1%;
+  margin-left: 35%;
+}
+.imageHolder {
+  height: 60%;
+  width: 32%;
+  background-color: white;
+  margin-top: 0%;
+  margin-left: 34.2%;
+}
+
+
+
+
+
+#bottomInfo {
+	font-size: 0.6em;
+}
+#bottomInfo p {
+	margin-top: 18px;
+}
+#bottomInfo2 {
+	margin-right: -16px;
+	margin-top: 18px;
+	height: 58%;
+}
+#smIconsBottom {
+	height: 3%;
+	margin-top: 5px;
+}

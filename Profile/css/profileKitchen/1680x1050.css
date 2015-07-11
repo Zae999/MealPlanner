@@ -1,0 +1,20 @@
+#main, .contentHolder {
+	height: 965px;
+}
+.topHolderSec, .topHolderSecInner {
+	height: 465px;
+}
+.bottomHolderSec, .bottomHolderSecInner {
+	height: 500px;
+}
+
+
+.topListArea ul {
+	width: 90.4%;
+}
+
+
+
+#smIconsBottom {
+	margin-top: 0px;
+}
