@@ -1,0 +1,89 @@
+#main {
+	height: 807px;
+}
+#navBarRight #userArrow {
+	margin-left: -5%;
+}
+
+
+
+
+.listHeader {
+	width: 80.5%;
+	margin-left: 16.67%;
+	background-color: rgba(255, 0, 0, 0);
+}
+.listCheck {
+	font-size: 1.3em;
+	margin-left: 1%;
+	width: 100px;
+}
+.listName {
+	width: 400px;
+	margin-left: 110px;
+}
+.listPrice {
+	width: 149px;
+	margin-left: 511px;
+	font-size: 2.3em;
+}
+.listQty {
+	width: 149px;
+	margin-left: 661px;
+}
+
+
+
+
+
+
+.contentHolder {
+	width: 97%;
+}
+.row {
+	width: 100%;
+}
+.listItemSelection {
+	width: 100px;
+	margin-left: 178px;
+}
+.checkItem {
+	margin-left: 34%;
+	margin-top: 25%;
+}
+.listItemName {
+	width: 400px;
+	margin-left: 278px;
+}
+.listItemPrice {
+	width: 149px;
+	margin-left: 679px;
+}
+.listItemQty {
+	width: 149px;
+	margin-left: 829px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottomInfo {
+	font-size: .9em;
+}
+#bottomInfo2 {
+	margin-right: -10px;
+}
+#smIconsBottom {
+	height: 5%;
+	margin-top: 0px;
+}

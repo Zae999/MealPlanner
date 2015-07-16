@@ -1,6 +1,3 @@
-#main {
-	height: 1380px;
-}
 #companyName p {
   font-size: 2em;
   margin-top: -2px;
@@ -18,43 +15,36 @@
 }
 .underNavSecInnerArea p {
   margin-top: -6.9%;
-    font-size: 1.1em;
 }
-
-.browseItem {
-  height: 200px;
-  width: 200px;
+.photo {
+	width: 40%;
+	margin-left: 30%;
 }
-
-.browseItem#bi1 {
-	margin-left: 4%;
+.titleIA {
+	font-size: 1em;
 }
-.browseItem#bi2 {
-	margin-left: 36.3%;
+.titleIA p {
+	margin-top: -11%;
+	font-size: .9em;
 }
-.browseItem#bi3 {
-	margin-left: 69%;
+.titleHTM {
+	width: 28%;
+	font-size: 1.5em;
+	margin-top: 1%;
+	margin-left: 36%;
 }
-.browseItem#bi4 {
-	visibility: hidden;
+.inputTA {
+  width: 40%;
+  margin-top: 11%;
+  margin-left: 30%;
 }
-.browseItem#bi5 {
-	visibility: hidden;
+.doneBtn {
+	font-size: 1.2em;
 }
-.browseItem#bi6 {
-	visibility: hidden;
+#myFile {
+  width: 25%;
+  margin-left: 37%;
 }
-
-.btnNavArea {
-  width: 26.5%;
-  margin-left: 69%;
-}
-.bottomNavInner {
-  width: 54%;
-  margin-left: 7%;
-
-}
-
 
 #bottomInfo {
 	font-size: .6em;

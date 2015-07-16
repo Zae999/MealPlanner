@@ -1,0 +1,31 @@
+#main {
+	height: 938px;
+}
+#navBarRight #userArrow {
+	margin-left: -19%;
+}
+.underNavSecInnerArea p {
+  margin-top: -4.1%;
+}
+
+
+.row {
+	height: 449px;
+}
+.browseItem {
+	height: 300px;
+	width: 300px;
+}
+
+
+
+
+
+
+#bottomInfo {
+	font-size: 1.1em;
+}
+#smIconsBottom {
+	height: 4%;
+	margin-top: 0px;
+}

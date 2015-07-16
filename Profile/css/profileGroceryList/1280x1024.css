@@ -1,0 +1,20 @@
+#main {
+	height: 940px;
+}
+#navBarRight #userArrow {
+	margin-left: -22%;
+}
+.listHeader {
+	width: 70%;
+	margin-left: 16.67%;
+}
+.contentHolder {
+	
+}
+#bottomInfo {
+	font-size: 1.1em;
+}
+#smIconsBottom {
+	height: 4%;
+	margin-top: 0px;
+}

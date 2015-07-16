@@ -1,0 +1,48 @@
+#main {
+	height: 938px;
+}
+.underNavSecInnerArea p {
+  margin-top: -5.3%;
+}
+#navBarRight #userArrow {
+	margin-left: -11%;
+}
+
+
+.row {
+	height: 449px;
+}
+.browseItem#bi1 {
+	margin-left: -62%;
+}
+.browseItem#bi2 {
+	margin-left: -28.7%;
+}
+.browseItem#bi3 {
+	margin-left: 5%;
+}
+.browseItem#bi4 {
+	margin-left: 3%;
+}
+.browseItem#bi5 {
+	margin-left: 36.3%;
+}
+.browseItem#bi6 {
+	margin-left: 70%;
+}
+
+
+
+
+
+
+#bottomInfo {
+	font-size: .9em;
+}
+#bottomInfo p {
+	margin-left: 13px;
+}
+#smIconsBottom {
+	height: 4%;
+	margin-top: 7px;
+}

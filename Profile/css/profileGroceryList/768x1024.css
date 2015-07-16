@@ -1,0 +1,120 @@
+#main {
+	height: 938px;
+}
+#companyName p {
+	font-size: 2em;
+	margin-left: 30%;
+}
+#navBarRight #settings {
+	background-size: 21px;
+}
+#navBarRight #userArrow {
+	margin-left: -2%;
+}
+#navBarRight #usersName {
+	font-size: 1em;
+}
+
+
+
+.listHeader {
+	width: 80.5%;
+	margin-left: 16.67%;
+	background-color: rgba(255, 0, 0, 0);
+}
+.listCheck {
+	font-size: 1.2em;
+	margin-left: 1.2%;
+	width: 85px;
+}
+.listName {
+	width: 315px;
+	margin-left: 95px;
+	font-size: 2em;
+}
+.listPrice {
+	width: 120px;
+	margin-left: 410px;
+	font-size: 2em;
+}
+.listQty {
+	width: 109px;
+	margin-left: 531px;
+	font-size: 2em;
+}
+
+
+
+
+
+
+.contentHolder {
+	width: 97%;
+}
+.row {
+	width: 100%;
+}
+.listItemType {
+	font-size: 1.7em;
+	width: 120px;
+}
+.listItemSelection {
+	width: 85px;
+	margin-left: 138px;
+}
+.checkItem {
+	margin-left: 34%;
+	margin-top: 25%;
+	height: 25px;
+	width: 25px;
+}
+.listItemName {
+	width: 314px;
+	margin-left: 224px;
+	font-size: 1.5em;
+}
+.listItemPrice {
+	width: 120px;
+	margin-left: 538px;
+	font-size: 1.8em;
+}
+.listItemQty {
+	width: 109px;
+	margin-left: 659px;
+
+}
+.qtyItem {
+  height: 25px;
+  width: 25px;
+  margin-left: 38%;
+  margin-top: 22%;
+  font-size: 1.1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottomInfo {
+	font-size: .7em;
+}
+#bottomInfo p {
+	margin-top: 16px;
+	margin-left: 20px;
+}
+#bottomInfo2 {
+	margin-right: -10px;
+	margin-top: 14px;
+}
+#smIconsBottom {
+	height: 4%;
+	margin-top: 2px;
+}

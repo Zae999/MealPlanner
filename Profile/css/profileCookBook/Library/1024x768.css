@@ -1,0 +1,53 @@
+#main {
+	height: 683px;
+}
+.underNavSecInnerArea p {
+	margin-top: -5.1%;
+}
+#navBarRight #userArrow {
+	margin-left: -7%;
+}
+
+
+.leftSec {
+	height: 642px;
+}
+.rightSec {
+	height: 642px;
+}
+.photoSec {
+	margin-left: 15%;
+}
+.titlePrepTime {
+	margin-top: 67%;
+}
+.titleLeftI {
+	margin-top: 79%;
+}
+.titleMiddleI {
+	margin-top: 79%;
+}
+.titleRightI {
+	margin-top: 79%;
+	margin-left: 70%;
+	font-size: 1em;
+}
+.listI {
+	margin-top: 88.5%;
+}
+
+
+#bottomInfo {
+	font-size: .9em;
+}
+#bottomInfo p{
+	margin-top: 15px;
+	margin-left: 14px;
+}
+#bottomInfo2 {
+	margin-top: 13px;
+}
+#smIconsBottom {
+	height: 4%;
+	margin-top: 5px;
+}		
