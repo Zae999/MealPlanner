@@ -1,0 +1,71 @@
+#navBarRight #settings {
+  background-size: 20px;
+}
+#navBarRight #usersName {
+  font-size: .8em;
+}
+#navBarRight #userArrow {
+  margin-left: -5%;
+}
+.smallAddBtn {
+  width: 13%;
+}
+
+.rowSection {
+  width: 100%; 
+  margin-left: 0%;
+  margin-top: 13%;
+}
+.searchBarArea {
+	margin-left: 1%;
+    width: 149px;
+}
+.imageHolder {
+  width: 93%;
+  margin-left: 3.25%;
+}
+.createBtn p {
+  margin-left: 1%;
+  margin-top: 34px;
+}
+.photoPerson {
+  margin-top: -22%;
+  margin-left: 79%;
+}
+.nfHolder ul {
+  width: 87%;
+  margin-left: -18%;
+}
+.findSecHolder {
+  width: 157px;
+  margin-left: 0.7%;
+}
+#pickFIle {
+  width: 92%;
+  margin-left: 57%;
+}
+
+.userPic {
+  height: 49%;
+}
+
+
+
+#bottomInfo {
+  font-size: .65em;
+}
+#bottomInfo p {
+  margin-left: 21px;
+  width: 40%;
+}
+#bottomInfo p{
+  margin-top: 19px;
+}
+#bottomInfo2 {
+  margin-top: 16px;
+  height: 67%;
+}
+#smIconsBottom {
+  height: 4%;
+  margin-top: 0px;
+}

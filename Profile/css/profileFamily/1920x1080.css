@@ -1,0 +1,32 @@
+.rowSection {
+  width: 61%; 
+  margin-left: 20%;
+}
+.photoPerson {
+  margin-top: -53%;
+  margin-left: 140%;
+}
+#pickFIle {
+	margin-left: 114%;
+}
+.findSecHolder {
+	margin-top: 2.5%;
+}
+.searchBarArea {
+	margin-left: 5.6%;
+}
+
+
+#bottomInfo p {
+  margin-left: 217px;
+  width: 31%;
+}
+
+
+
+
+
+#smIconsBottom {
+  height: 4%;
+  margin-top: 0px;
+}

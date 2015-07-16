@@ -1,0 +1,23 @@
+#navBarRight #userArrow {
+  margin-left: -20%;
+}
+
+
+.rowSection {
+  width: 86%; 
+  margin-left: 6.7%;
+}
+.searchBarArea {
+	margin-left: 3.5%;
+}
+.imageHolder {
+  width: 71%;
+  margin-left: 14.25%;
+}
+#bottomInfo {
+  font-size: 1.2em;
+}
+#bottomInfo p {
+  margin-left: 14px;
+  width: 41%;
+}

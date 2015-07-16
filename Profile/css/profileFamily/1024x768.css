@@ -1,0 +1,42 @@
+
+#navBarRight #userArrow {
+  margin-left: -5%;
+}
+
+
+.rowSection {
+  width: 100%; 
+  margin-left: 0%;
+}
+.searchBarArea {
+	margin-left: 1%;
+}
+.imageHolder {
+  width: 93%;
+  margin-left: 3.25%;
+}
+.nfHolder ul {
+  width: 70%;
+  margin-left: -4%;
+}
+.findSecHolder {
+  margin-left: 0.7%;
+}
+
+.userPic {
+  height: 65%;
+}
+
+
+
+#bottomInfo {
+  font-size: .9em;
+}
+#bottomInfo p {
+  margin-left: 21px;
+  width: 40%;
+}
+#smIconsBottom {
+  height: 4%;
+  margin-top: 7px;
+}

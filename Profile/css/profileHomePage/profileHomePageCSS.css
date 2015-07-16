@@ -10,7 +10,7 @@ body  {
 header {
 	height: 40px;
 	width: 100%;
-	background-color: #454545;
+	background-color: #364143;
   color: white;
 }
 
@@ -76,7 +76,7 @@ header {
   float: left;
 }
 #navBarRight #settings:hover {
-  background-color: #454545;
+  background-color: #364143;
   background-image: url(../../images/settingsIconBlue.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 1288px;
   width: 100%;
 }
@@ -234,7 +234,7 @@ header {
   font-weight: 600;
   vertical-align: middle;
   line-height: 45px;
-  color: #454545;
+  color: #364143;
 }
 #profileNameANDLocation #pLocation {
   margin-top: 45px;
@@ -245,14 +245,12 @@ header {
   position: absolute;
   margin-top: 6.5%;
   margin-left: 14%;
-  background-color: lightblue;
 }
 #pFamTitle {
   height: 27px;
   width: 100%;
   font-size: 1.5em;
   font-weight: 900;
-  background-color: gold;
   text-decoration: underline;
   margin-top: 0%;
   margin-left: 0%;
@@ -269,7 +267,6 @@ header {
 #pFamNames1 {
   height: 17px;
   width: 65px;
-  background-color: rgba(217, 217, 217, 1);
   margin-top: -4%;
   margin-left: 0%;
   text-align: center;
@@ -290,7 +287,6 @@ header {
 #pFamNames2 {
   height: 17px;
   width: 65px;
-  background-color: rgba(217, 217, 217, 1);
   margin-top: -4%;
   margin-left: 24%;
   text-align: center;
@@ -310,7 +306,6 @@ header {
 #pFamNames3 {
   height: 17px;
   width: 65px;
-  background-color: rgba(217, 217, 217, 1);
   margin-top: -4%;
   margin-left: 48.5%;
   text-align: center;
@@ -321,7 +316,6 @@ header {
 #profileFamliy a {
   height: 17px;
   width: 65px;
-  background-color: rgba(217, 217, 217, 1);
   margin-top: -24%;
   margin-left: 72.5%;
   text-align: center;
@@ -336,13 +330,11 @@ header {
   position: absolute;
   margin-top: 0%;
   margin-left: 38%;
-  background-color: gray;
 }
 
 #profileAboutTitle {
   height: 20%;
   width: 100%;
-  background-color: rgba(255, 0, 0, 0.5);
   margin-top: 0px;
   margin-left: 0%;
   text-align: center;
@@ -354,7 +346,6 @@ header {
 #profileAboutSec {
   height: 60%;
   width: 100%;
-  background-color: rgba(0, 255, 0, 0.5);
   margin-top: 0px;
   margin-left: 0%;
   text-align: center;
@@ -367,7 +358,6 @@ header {
 #profileSocial {
   height: 20%;
   width: 100%;
-  background-color: rgba(0, 0, 255, 0.5);
   margin-top: 0px;
   margin-left: 0%;
 }
@@ -385,13 +375,11 @@ header {
   position: absolute;
   margin-top: 0%;
   margin-left: 78%;
-  background-color: gray;
 }
 
 #profileCalendarTitle {
   height: 20%;
   width: 100%;
-  background-color: rgba(150, 0, 255, 0.5);
   margin-top: 0px;
   margin-left: 0%;
   text-align: center;
@@ -403,7 +391,6 @@ header {
 #profileCalendarMain {
   height: 60%;
   width: 100%;
-  background-color: rgba(0, 150, 255, 0.5);
   margin-top: 0px;
   margin-left: 0%;
 }
@@ -411,7 +398,6 @@ header {
 #profileCalendarLink {
   height: 20%;
   width: 100%;
-  background-color: rgba(255, 150, 0, 0.5);
   margin-top: 0px;
   margin-left: 0%;
   text-align: center;
@@ -432,7 +418,6 @@ header {
 #weeklyViewNav {
   height: 75px;
   width: 100%;
-  /*background-color: #ffa800;*/
   border-top:  3px solid #23dbff;
 
 }
@@ -440,7 +425,7 @@ header {
   position: absolute;
   height: 30px;
   width: 12%;
-  background-color: violet;
+  background-color: #ff8c00;
   margin-left: 0%;
 }
 #dayLeft1 p {
@@ -456,7 +441,7 @@ header {
   position: absolute;
   height: 45px;
   width: 13%;
-  background-color: lime;
+  background-color: #ffa500;
   margin-left: 11.9%;
 }
 #LeftTriLeft2 {
@@ -464,7 +449,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 33px 33px 21.5px;
-border-color: transparent transparent #00ff00 transparent;
+border-color: transparent transparent #ffa500 transparent;
 margin-left: -15%;
 margin-top: -1.5%;
 position: absolute;
@@ -487,7 +472,7 @@ z-index: 2;
   position: absolute;
   height: 60px;
   width: 15.3%;
-  background-color: violet;
+  background-color: #ff8c00;
   margin-left: 24.7%;
 }
 #dayLeft3 p {
@@ -505,7 +490,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 42px 43px 30.5px;
-border-color: transparent transparent violet transparent;
+border-color: transparent transparent #ff8c00 transparent;
 margin-left: -18%;
 margin-top: -2%;
 position: absolute;
@@ -517,7 +502,8 @@ transform: rotate(55deg); /* Standard syntax */
   position: absolute;
   height: 75px;
   width: 20%;
-  background-color: lime;
+  color: white;
+  background-color: #ffa500;
   margin-left: 39.95%;
 }
 #LeftTriCenter {
@@ -525,7 +511,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 53px 54px 41.5px;
-border-color: transparent transparent #00ff00 transparent;
+border-color: transparent transparent #ffa500 transparent;
 margin-left: -19%;
 margin-top: -2%;
 position: absolute;
@@ -538,7 +524,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 41.5px 54px 53px;
-border-color: transparent transparent #00ff00 transparent;
+border-color: transparent transparent #ffa500 transparent;
 margin-left: 86%;
 margin-top: -37.1%;
 position: absolute;
@@ -570,7 +556,7 @@ z-index: 2;
   position: absolute;
   height: 60px;
   width: 15.3%;
-  background-color: violet;
+  background-color: #ff8c00;
   margin-left: 59.9%;
 }
 #RightTriRight1 {
@@ -578,7 +564,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 30.5px 43px 42px;
-border-color: transparent transparent violet transparent;
+border-color: transparent transparent #ff8c00 transparent;
 margin-left: 85%;
 margin-top: -44%;
 position: absolute;
@@ -600,7 +586,7 @@ z-index: 2;
   position: absolute;
   height: 45px;
   width: 13%;
-  background-color: lime;
+  background-color: #ffa500;
   margin-left: 75.05%;
 }
 #RightTriRight2 {
@@ -608,7 +594,7 @@ width: 0;
 height: 0;
 border-style: solid;
 border-width: 0 22.5px 35px 33px;
-border-color: transparent transparent #00ff00 transparent;
+border-color: transparent transparent #ffa500 transparent;
 margin-left: 85.5%;
 margin-top: -39.25%;
 position: absolute;
@@ -630,7 +616,7 @@ z-index: 2;
   position: absolute;
   height: 30px;
   width: 12%;
-  background-color: violet;
+  background-color: #ff8c00;
   margin-left: 88%;
 }
 #dayRight3 p {
@@ -655,27 +641,24 @@ z-index: 2;
 #FirstMealPlan {
   height: 350px;
   width: 100%;
-  background-color: rgba(255, 0, 0, 0.5);
   margin-top: -3.2%;
 }
 #FirstMPSec1 {
   height: 100%;
   width: 25%;
-  background-color: black;
   margin-left: 0%;
   float: left;
 }
 #FirstMPSec2 {
   height: 100%;
   width: 50%;
-  background-color: white;
   margin-left: 0%;
   float: left;
+  color: white;
 }
 #FirstMPTitle1 {
   width: 80%;
   height: 20%;
-  background-color: rgba(255,255,255,0.5);
   margin-top: 10%;
   margin-left: 10%;
   text-align: center;
@@ -696,14 +679,13 @@ z-index: 2;
 #FirstMPListItem1 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 10%;
   margin-left: 5%;
 }
 #circle1 {
   width: 30px;
   height: 30px;
-  background-color: black;
+  background-color: rgb(6, 228, 255);
   margin-top: 21px;
   margin-left: 1.2%;
   border-radius: 50%;
@@ -712,17 +694,16 @@ z-index: 2;
 #MealItemName1 {
   width: 90%;
   height: 100%;
-  background-color: yellow;
   margin-left: 10%;
   vertical-align: middle;
-    line-height: 70px;
+  line-height: 70px;
   font-size: 1.4em;
   font-weight: 900;
+  color: rgb(6, 228, 255);
 }
 #FirstMPListItem2 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 
@@ -739,7 +720,6 @@ z-index: 2;
 #MealItemName2 {
   width: 90%;
   height: 100%;
-  background-color: yellow;
   margin-left: 10%;
   vertical-align: middle;
   line-height: 70px;
@@ -749,7 +729,6 @@ z-index: 2;
 #FirstMPListItem3 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 }
@@ -765,7 +744,6 @@ z-index: 2;
 #MealItemName3 {
   width: 90%;
   height: 100%;
-  background-color: yellow;
   margin-left: 10%;
   vertical-align: middle;
   line-height: 70px;
@@ -779,25 +757,24 @@ z-index: 2;
 #FirstMPSec3 {
   height: 100%;
   width: 25%;
-  background-color: gray;
   margin-left: 0%;
   float: left;
+  color: white;
 }
 #FirstMealServings {
   height: 10%;
   width: 100%;
-  background-color: orange;
   margin-top: 5%;
   text-align: center;
   vertical-align: middle;
   line-height: 35px;
   font-size: 1.1em;
   font-weight: 700;
+  color: white;
 }
 #FirstMealINTitle {
   height: 13%;
   width: 100%;
-  background-color: brown;
   margin-top: 0%;
   color: white;
   font-size: 1.2em;
@@ -836,13 +813,11 @@ z-index: 2;
 #FirstMealINSec {
   height: 72%;
   width: 100%;
-  background-color: indigo;
   margin-top: 0%;
 }
 #FirstMealINSec ul {
   height: 238px;
   width: 22%;
-  background-color: indigo;
   margin-top: 1%;
   margin-left: 0%;
   font-size: 1.2em;
@@ -876,32 +851,28 @@ z-index: 2;
   height: 350px;
   width: 100%;
   border-top: 3px solid #23dbff;
-  background-color: silver;
 }
 #SecondMealPlan {
   height: 350px;
   width: 100%;
-  background-color: rgba(255, 0, 0, 0.5);
   margin-top: 0%;
 }
 #SecondMPSec1 {
   height: 100%;
   width: 25%;
-  background-color: black;
   margin-left: 0%;
   float: left;
 }
 #SecondMPSec2 {
   height: 100%;
   width: 50%;
-  background-color: white;
+  color: white;
   margin-left: 0%;
   float: left;
 }
 #SecondMPTitle1 {
   width: 80%;
   height: 20%;
-  background-color: rgba(255,255,255,0.5);
   margin-top: 10%;
   margin-left: 10%;
   text-align: center;
@@ -922,7 +893,6 @@ z-index: 2;
 #SecondMPListItem1 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 10%;
   margin-left: 5%;
 }
@@ -930,7 +900,6 @@ z-index: 2;
 #SecondMPListItem2 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 
@@ -939,7 +908,6 @@ z-index: 2;
 #SecondMPListItem3 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 }
@@ -947,14 +915,13 @@ z-index: 2;
 #SecondMPSec3 {
   height: 100%;
   width: 25%;
-  background-color: gray;
   margin-left: 0%;
   float: left;
 }
 #SecondMealServings {
   height: 10%;
   width: 100%;
-  background-color: orange;
+  color: white;
   margin-top: 0%;
   text-align: center;
   vertical-align: middle;
@@ -965,7 +932,6 @@ z-index: 2;
 #SecondMealINTitle {
   height: 13%;
   width: 100%;
-  background-color: brown;
   margin-top: 0%;
   color: white;
   font-size: 1.2em;
@@ -977,13 +943,11 @@ z-index: 2;
 #SecondMealINSec {
   height: 77%;
   width: 100%;
-  background-color: indigo;
   margin-top: 0%;
 }
 #SecondMealINSec ul {
   height: 238px;
   width: 22%;
-  background-color: indigo;
   margin-top: 1%;
   margin-left: 0%;
   font-size: 1.2em;
@@ -1009,32 +973,29 @@ z-index: 2;
   height: 350px;
   width: 100%;
   border-top: 3px solid #23dbff;
-  background-color: silver;
 }
 #ThirdMealPlan {
   height: 350px;
   width: 100%;
-  background-color: rgba(255, 0, 0, 0.5);
   margin-top: 0%;
 }
 #ThirdMPSec1 {
   height: 100%;
   width: 25%;
-  background-color: black;
+
   margin-left: 0%;
   float: left;
 }
 #ThirdMPSec2 {
   height: 100%;
   width: 50%;
-  background-color: white;
+  color: white;
   margin-left: 0%;
   float: left;
 }
 #ThirdMPTitle1 {
   width: 80%;
   height: 20%;
-  background-color: rgba(255,255,255,0.5);
   margin-top: 10%;
   margin-left: 10%;
   text-align: center;
@@ -1055,7 +1016,6 @@ z-index: 2;
 #ThirdMPListItem1 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 10%;
   margin-left: 5%;
 }
@@ -1063,7 +1023,6 @@ z-index: 2;
 #ThirdMPListItem2 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 
@@ -1072,7 +1031,6 @@ z-index: 2;
 #ThirdMPListItem3 {
   width: 90%;
   height: 20%;
-  background-color: rgba(0,0,255,0.5);
   margin-top: 0%;
   margin-left: 5%;
 }
@@ -1080,14 +1038,13 @@ z-index: 2;
 #ThirdMPSec3 {
   height: 100%;
   width: 25%;
-  background-color: gray;
   margin-left: 0%;
   float: left;
 }
 #ThirdMealServings {
   height: 10%;
   width: 100%;
-  background-color: orange;
+  color: white;
   margin-top: 0%;
   text-align: center;
   vertical-align: middle;
@@ -1098,7 +1055,6 @@ z-index: 2;
 #ThirdMealINTitle {
   height: 13%;
   width: 100%;
-  background-color: brown;
   margin-top: 0%;
   color: white;
   font-size: 1.2em;
@@ -1110,13 +1066,11 @@ z-index: 2;
 #ThirdMealINSec {
   height: 77%;
   width: 100%;
-  background-color: indigo;
   margin-top: 0%;
 }
 #ThirdMealINSec ul {
   height: 238px;
   width: 22%;
-  background-color: indigo;
   margin-top: 1%;
   margin-left: 0%;
   font-size: 1.2em;

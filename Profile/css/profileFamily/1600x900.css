@@ -1,0 +1,16 @@
+.rowSection {
+  width: 73%; 
+  margin-left: 13%;
+}
+.searchBarArea {
+	margin-left: 4.3%;
+}
+#bottomInfo p {
+  margin-left: 80px;
+  width: 37%;
+}
+
+#smIconsBottom {
+  height: 4%;
+  margin-top: 0px;
+}
