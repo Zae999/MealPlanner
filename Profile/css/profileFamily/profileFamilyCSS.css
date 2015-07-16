@@ -10,7 +10,7 @@ body  {
 header {
   height: 40px;
   width: 100%;
-  background-color: #454545;
+  background-color: #364143;
   color: white;
 }
 
@@ -76,7 +76,7 @@ header {
   float: left;
 }
 #navBarRight #settings:hover {
-  background-color: #454545;
+  background-color: #364143;
   background-image: url(../../images/settingsIconBlue.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -110,8 +110,8 @@ header {
   float: left;
 }
 #navBarRight #userArrow:hover {
-  background-color: rgba(69, 69, 69, 0.1);
-  height: 97%;
+  background-color: #364143;
+  height: 96%;
 }
 
 
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 1200px;
   width: 100%;
 }
@@ -214,7 +214,7 @@ header {
   width: 100%; 
   margin-top: 0px;
   margin-left: 0px;
-  background-color: rgba(0,0,255,0.5);
+  background-color: white;
 }
 .topHolderSecInner {
   height: 300px; 
@@ -225,7 +225,7 @@ header {
 }
 .topHolderSecInner#one {
   width: 33.3333%;
-  background-color: orange;
+  
 }
 .topTitle {
   height: 45px;
@@ -237,26 +237,23 @@ header {
   color: black;
   font-weight: 900;
   margin-top: 5%;
-  
+  text-decoration: underline;
 }
 .imageHolder {
   height: 200px;
   width: 65%;
-  background-color: white;
   margin-top: 2%;
   margin-left: 17.25%;
 }
 .createDecide {
   height: 62px;
   width: 100%;
-  background-color: black;
   margin-top: 0%;
   margin-left: 0%;
 }
 .createDecide p {
   height: 30px;
   width: 100%;
-  background-color: indigo;
   margin-top: 0%;
   margin-left: 0%;
   margin-bottom: 2px;
@@ -264,7 +261,6 @@ header {
 .name {
   height: 100%;
   width: 50%;
-  background-color: yellow;
   float: left;
   text-align: center;
   vertical-align: middle;
@@ -276,11 +272,17 @@ header {
 .smallAddBtn {
   height: 100%;
   width: 10%;
-  background-color: cyan;
+  background-color: rgb(34, 178, 253);
   float: left;
   border-radius: 50%;
   margin-top: 0%;
   margin-left: 0%;
+}
+.smallAddBtn#one:hover {
+  background-color: #ffa800;
+}
+.smallAddBtn#two:hover {
+  background-color: #ffa800;
 }
 .smlBtn {
   height: 20%;
@@ -291,14 +293,12 @@ header {
 .createArea {
   height: 105px;
   width: 100%;
-  background-color: gray;
   margin-top: 0%;
   margin-left: 0%;
 }
 .createGroupSec {
   height: 51px;
   width: 184px;
-  background-color: black;
   margin-top: 2%;
   margin-left: 4.4%;
   position: absolute;
@@ -307,7 +307,6 @@ header {
 .inputTitleGroup {
   height: 20px;
   width: 100%;
-  background-color: orange;
   font-size: 1.2em;
   font-weight: 900;
   margin-top: 0%;
@@ -324,7 +323,6 @@ header {
 .createPersonSec {
   height: 38px;
   width: 184px;
-  background-color: black;
   margin-top: 1%;
   margin-left: 0%;
   position: absolute;
@@ -333,7 +331,6 @@ header {
 .inputTitlePerson {
   height: 15px;
   width: 100%;
-  background-color: orange;
   font-size: 1em;
   font-weight: 900;
   margin-top: 0%;
@@ -378,7 +375,6 @@ header {
 .createBtn {
   height: 33px;
   width: 100%;
-  background-color: red;
   margin-top: 0%;
   margin-left: 0%;
   margin-bottom: 0%;
@@ -387,7 +383,7 @@ header {
   height: 30px;
   width: 80px;
   border-radius: 5px;
-  background-color: blue;
+  background-color: rgb(34, 178, 253);
   margin-left: 7%;
   margin-top: 8px;
   position: absolute;
@@ -396,15 +392,18 @@ header {
   vertical-align: middle;
   line-height: 30px;
   font-size: 1.3em;
-  }
+}
+.createBtn p:hover {
+  background-color: #ffa800;
+  z-index: 2;
+}
 .topHolderSecInner#two {
   width: 33.3333%;
-  background-color: gray;
+
 }
 .nfHolder {
   height: 200px;
   width: 65%;
-  background-color: white;
   margin-top: 2%;
   margin-left: 17.25%;
 }
@@ -418,7 +417,6 @@ header {
 .nfHolder li {
   height: 15%;
   width: 100%;
-  background-color: aqua;
   margin-top: 3%;
   margin-bottom: 0%;
   margin-left: 0%;
@@ -430,7 +428,6 @@ header {
 }
 .topHolderSecInner#three {
   width: 33.3333%;
-  background-color: yellow;
 }
 .topTitle#three {
   height: 45px;
@@ -447,7 +444,6 @@ header {
 .smHolder {
   height: 200px;
   width: 65%;
-  background-color: white;
   margin-top: 2%;
   margin-left: 17.25%;
 }
@@ -476,7 +472,6 @@ header {
 .findSec {
   height: 25px;
   width: 100%;
-  background-color: white;
   margin-top: 2%;
   margin-left: 0%;
   margin-bottom: 0%;
@@ -499,7 +494,7 @@ header {
   width: 100%; 
   margin-top: 0px;
   margin-left: 0px;
-  background-color: rgba(0,0,255,0.5);
+  background-color: #364143;
 }
 .bottomTitle {
   height: 45px;
@@ -519,7 +514,6 @@ header {
   width: 80%; 
   margin-top: 7%;
   margin-left: 10%;
-  background-color: aqua;
   position: absolute;
 }
 .userRow {
@@ -527,27 +521,21 @@ header {
   width: 100%; 
   margin-top: 0%;
   margin-left: 0%;
-  background-color: rgba(0,255,0,0.5);
 }
 .userRow#r2 {
-  background-color: rgba(255, 0,0,0.5);
 }
 .userRow#r4 {
-  background-color: rgba(255,0,0,0.5);
 }
 .userSelect {
   height: 100%; 
   width: 20%; 
   margin-top: 0%;
   margin-left: 0%;
-  background-color: rgba(255,255,255,0.5);
   float: left;
 }
 .userSelect#u2 {
-  background-color: rgba(255, 0,0,0.5);
 }
 .userSelect#u4 {
-  background-color: rgba(255,0,0,0.5);
 }
 .userPic {
   height: 75%;
@@ -555,14 +543,13 @@ header {
   margin-top: 3%;
   margin-left: 22.5%;
   border-radius: 50%;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 .userName {
   height: 17%;
   width: 80%;
   margin-top: 3%;
   margin-left: 10%;
-  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
   vertical-align: middle;
   font-size: 1.2em;
@@ -573,7 +560,7 @@ header {
 #nextPage {
   height: 35px;
   width: 100px;
-  background-color: red;
+  background-color: rgb(34, 178, 253);
   color: white;
   float: right;
   margin-right: 5%;
@@ -585,7 +572,9 @@ header {
   vertical-align: middle;
   line-height: 30px;
 }
-
+#nextPage:hover {
+  background-color: #ffa800;
+}
 
 
 

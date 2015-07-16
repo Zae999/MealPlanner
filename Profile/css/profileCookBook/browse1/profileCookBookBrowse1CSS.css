@@ -10,7 +10,7 @@ body  {
 header {
 	height: 40px;
 	width: 100%;
-	background-color: #454545;
+	background-color: #364143;
   color: white;
 }
 
@@ -76,7 +76,7 @@ header {
   float: left;
 }
 #navBarRight #settings:hover {
-  background-color: #454545;
+  background-color: #364143;
   background-image: url(../../../images/settingsIconBlue.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -110,7 +110,7 @@ header {
   float: left;
 }
 #navBarRight #userArrow:hover {
-  background-color: rgba(69, 69, 69, 0.1);
+  background-color: #364143;
   height: 97%;
 }
 
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 840px;
   width: 100%;
 }
@@ -194,14 +194,12 @@ header {
   width: 100%;
   top: 0%;
   margin-left: 0%;
-  background-color: darkkhaki;
 }
 .underNavSecInnerArea {
   height: 100%;
   width: 30%;
   top: 0%;
   margin-left: 35%;
-  background-color: crimson;
 }
 .underNavSecInnerArea p {
   height: 100%;
@@ -228,10 +226,8 @@ header {
   margin-left: 0%;
 }
 .row#r1 {
-  background-color: black;
 }
 .row#r2 {
-  background-color: white;
 }
 .browseItem {
   height: 275px;
@@ -240,17 +236,17 @@ header {
   border-radius: 15px;
   }
 .browseItem#bi1 {
-  background-color: white;
+  background-color: black;
   margin-left: -57%;
   margin-top: 62.5px;
   }
 .browseItem#bi2 {
-  background-color: white;
+  background-color: black;
   margin-left: -24.7%;
   margin-top: 62.5px;
   }
 .browseItem#bi3 {
-  background-color: white;
+  background-color: black;
   margin-left: 7%;
   margin-top: 62.5px;
   }
@@ -275,8 +271,8 @@ header {
   margin-top: 34%;
   margin-left: 0%;
   float: left;
-  background-color: burlywood;
-  color: blueviolet;
+  background-color: white;
+  color: rgb(34, 178, 253);
   text-align: center;
   vertical-align: middle;
   line-height: 82.5px;

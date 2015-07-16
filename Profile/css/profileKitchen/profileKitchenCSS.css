@@ -10,7 +10,7 @@ body  {
 header {
 	height: 40px;
 	width: 100%;
-	background-color: #454545;
+	background-color: #364143;
   color: white;
 }
 
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -110,7 +110,7 @@ header {
   float: left;
 }
 #navBarRight #userArrow:hover {
-  background-color: rgba(69, 69, 69, 0.1);
+  background-color: #364143;
   height: 97%;
 }
 
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 800px;
   width: 100%;
 }
@@ -208,7 +208,7 @@ header {
   width: 100%; 
   margin-top: 0px;
   margin-left: 0px;
-  background-color: rgba(255,255,255,0.5);
+  border-bottom: 2px solid rgb(34, 178, 253);
 }
 .topHolderSecInner {
   height: 400px; 
@@ -218,7 +218,6 @@ header {
   float: left;
 }
 .topHolderSecInner#one {
-  background-color: rgba(70,200,12,0.5);
 }
 .topTitle {
   height: 45px;
@@ -227,14 +226,14 @@ header {
   vertical-align: middle;
   line-height: 45px;
   font-size: 1.8em;
-  color: black;
+  color: white;
   font-weight: 900;
   margin-top: 5%;
 
 }
 .topMainBody#one {
   height: 70%;
-  width: 50%;
+  width: 51%;
   background-color: white;
   margin-top: 0%;
   margin-left: 25%;
@@ -254,30 +253,29 @@ header {
 .topMainBodyInnerTitle #left {
   height: 100%;
   width: 70%;
-  background-color: red;
   float: left;
   line-height: 40px;
   font-size: 1.8em;
+  color: black;
 }
 .topMainBodyInnerTitle #right {
   height: 100%;
   width: 30%;
-  background-color: blue;
   float: left;
   line-height: 18px;
   font-size: 1.2em;
+  color: black;
 }
 .topListArea {
   height: 86%;
   width: 100%;
-  background-color: aqua;
+  background-color: rgb(34, 178, 253);
   margin-top: 0%;
   margin-left: 0%;
 }
 .topListArea ul {
   height: 100%;
   width: 89%;
-  background-color: white;
   margin-top: 0%;
   margin-left: 0%;
   list-style: none;
@@ -293,21 +291,20 @@ header {
 .leftList {
   height: 100%;
   width: 73%;
-  background-color: darkgoldenrod;
+  background-color: white;
   float: left;
   margin-top: 0%;
 }
 .rightList {
   height: 100%;
   width: 27%;
-  background-color: indigo;
+  background-color: black;
   float: left;
   margin-top: 0%;
 }
 .buttonArea {
   height: 30px;
   width: 30%;
-  background-color: indigo;
   margin-top: 1%;
   margin-left: 35%;
 }
@@ -320,15 +317,14 @@ header {
 .up {
   height: 100%;
   width: 50%;
-  background-color: aqua;
+  background-color: rgb(34, 178, 253);
   float: left;
 }
 .topHolderSecInner#two {
-  background-color: rgba(120,0,200,0.5);
 }
 .topMainBody#two {
   height: 70%;
-  width: 50%;
+  width: 51%;
   background-color: white;
   margin-top: 0%;
   margin-left: 25%;
@@ -345,7 +341,6 @@ header {
   width: 100%; 
   margin-top: 0px;
   margin-left: 0px;
-  background-color: rgba(0,0,255,0.5);
 }
 .bottomHolderSecInner {
   height: 400px; 
@@ -356,7 +351,6 @@ header {
 }
 .bottomHolderSecInner#one {
   width: 33.3333%;
-  background-color: orange;
 }
 .bottomTitle {
   height: 45px;
@@ -365,7 +359,7 @@ header {
   vertical-align: middle;
   line-height: 45px;
   font-size: 1.8em;
-  color: black;
+  color: white;
   font-weight: 900;
   margin-top: 5%;
   
@@ -380,13 +374,12 @@ header {
 .servingSizeHolder {
   height: 15.5%;
   width: 60%;
-  background-color: blue;
+  background-color: rgba(34, 178, 253, 0.25);
   margin-top: 2%;
   margin-left: 20%;
 }
 .bottomHolderSecInner#two {
   width: 33.3333%;
-  background-color: gray;
 }
 .nfHolder {
   height: 75%;
@@ -397,7 +390,6 @@ header {
 }
 .bottomHolderSecInner#three {
   width: 33.3333%;
-  background-color: yellow;
 }
 .bottomTitle#three {
   height: 45px;
@@ -406,7 +398,6 @@ header {
   vertical-align: middle;
   line-height: 45px;
   font-size: 1.8em;
-  color: black;
   font-weight: 900;
   margin-top: 5%;
   

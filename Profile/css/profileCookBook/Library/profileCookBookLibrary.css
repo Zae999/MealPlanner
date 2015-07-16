@@ -10,7 +10,7 @@ body  {
 header {
 	height: 40px;
 	width: 100%;
-	background-color: #454545;
+	background-color: #364143;
   color: white;
 }
 
@@ -76,7 +76,7 @@ header {
   float: left;
 }
 #navBarRight #settings:hover {
-  background-color: #454545;
+  background-color: #364143;
   background-image: url(../../../images/settingsIconBlue.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -110,7 +110,7 @@ header {
   float: left;
 }
 #navBarRight #userArrow:hover {
-  background-color: rgba(69, 69, 69, 0.1);
+  background-color: #364143;
   height: 97%;
 }
 
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 716px;
   width: 100%;
 }
@@ -198,14 +198,12 @@ header {
   width: 100%;
   top: 0%;
   margin-left: 0%;
-  background-color: darkkhaki;
 }
 .underNavSecInnerArea {
   height: 100%;
   width: 30%;
   top: 0%;
   margin-left: 35%;
-  background-color: crimson;
 }
 .underNavSecInnerArea p {
   height: 100%;
@@ -234,10 +232,9 @@ header {
   width: 50%;
   margin-top: 0%;
   margin-left: 0%;
-  background-color: black;
   color: white;
   position: absolute;
-    overflow-y: scroll;
+  overflow-y: scroll;
 }
 .leftOuterRow {
   height: 250px;
@@ -247,7 +244,6 @@ header {
   text-align: center;
   margin-top: 0px;
   margin-left: 0%;
-  background-color: darkolivegreen;
 }
 .titleOR {
   height: 55px;
@@ -258,7 +254,6 @@ header {
   position: absolute;
   margin-top: 0px;
   margin-left: 0%;
-  background-color: lime;
   font-size: 2.1em;
   font-weight: 900;
 }
@@ -283,7 +278,7 @@ header {
   margin-bottom: 0px;
 }
 .nameMeal:hover {
-  background-color: crimson;
+  background-color: #ffa800;
 }
 
 
@@ -306,7 +301,6 @@ header {
   position: absolute;
   margin-top: 0px;
   margin-left: 0%;
-  background-color: lime;
   font-size: 2.1em;
   font-weight: 900;
 }
@@ -315,7 +309,7 @@ header {
   width: 350px;
   margin-top: 10%;
   margin-left: 25%;
-  background-color: crimson;
+  background-color: rgb(134, 134, 134);
   position: absolute;
 }
 .titlePrepTime {
@@ -327,7 +321,6 @@ header {
   position: absolute;
   margin-top: 50%;
   margin-left: 0%;
-  background-color: lime;
   font-size: 1.4em;
   font-weight: 900;
 }

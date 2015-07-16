@@ -10,7 +10,7 @@ body  {
 header {
 	height: 40px;
 	width: 100%;
-	background-color: #454545;
+	background-color: #364143;
   color: white;
 }
 
@@ -76,7 +76,7 @@ header {
   float: left;
 }
 #navBarRight #settings:hover {
-  background-color: #454545;
+  background-color: #364143;
   background-image: url(../../images/settingsIconBlue.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header {
   line-height: 40px;
 }
 #navBarRight #usersName:hover {
-  background-color: #454545;
+  background-color: #364143;
   color: #23dbff;
 }
 #navBarRight #userArrow {
@@ -110,7 +110,7 @@ header {
   float: left;
 }
 #navBarRight #userArrow:hover {
-  background-color: rgba(69, 69, 69, 0.1);
+  background-color: #364143;
   height: 97%;
 }
 
@@ -185,7 +185,7 @@ header {
 }
 
 #main {
-  background-color: #454545;
+  background-color: #364143;
   height: 806px;
   width: 100%;
 }
@@ -198,7 +198,6 @@ header {
   width: 70%;
   margin-left: 15%;
   top: 10%;
-  background-color: aqua;
 }
 .listCheck {
   height: 80px;
@@ -206,13 +205,14 @@ header {
   margin-left: 0%;
   margin-top: 0%;
   position: absolute;
-  background-color: black;
   text-align: center;
   vertical-align: middle;
   line-height: 50px;
   font-size: 1.5em;
   font-weight: 900;
   color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 #checkAll {
   height: 20px;
@@ -227,12 +227,14 @@ header {
   margin-left: 149px;
   margin-top: 0%;
   position: absolute;
-  background-color: white;
   text-align: center;
   vertical-align: middle;
   line-height: 100px;
   font-size: 2.5em;
   font-weight: 900;
+  color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 .listPrice {
   height: 80px;
@@ -240,13 +242,14 @@ header {
   margin-left: 697px;
   margin-top: 0%;
   position: absolute;
-  background-color: black;
   text-align: center;
   vertical-align: middle;
   line-height: 100px;
   font-size: 2.5em;
   font-weight: 900;
   color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 .listQty {
   height: 80px;
@@ -254,20 +257,20 @@ header {
   margin-left: 846px;
   margin-top: 0%;
   position: absolute;
-  background-color: white;
   text-align: center;
   vertical-align: middle;
   line-height: 100px;
   font-size: 2.5em;
   font-weight: 900;
+  color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
 }
 .contentHolder {
   height: 320px;
   width: 85%;
   left: 0%;
   top: 80px;
-  background-color: darkorchid;
-  border-bottom: 2px solid aqua;
+  border-bottom: 1px solid rgb(34, 178, 253);
 }
 .listItemType {
   height: 40px;
@@ -275,7 +278,6 @@ header {
   margin-left: 0%;
   margin-top: 25px;
   position: absolute;
-  background-color: black;
   text-align: center;
   vertical-align: middle;
   line-height: 40px;
@@ -289,7 +291,8 @@ header {
   margin-left: 213px;
   margin-top: 0%;
   position: absolute;
-  background-color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 .checkItem {
   height: 30px;
@@ -297,7 +300,6 @@ header {
   margin-left: 40%;
   margin-top: 18%;
   position: absolute;
-  background-color: blue;
 }
 .listItemName {
   height: 80px;
@@ -305,13 +307,14 @@ header {
   margin-left: 363px;
   margin-top: 0%;
   position: absolute;
-  background-color: black;
   text-align: center;
   vertical-align: middle;
   line-height: 80px;
   font-size: 2em;
   font-weight: 700;
   color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 .listItemPrice {
   height: 80px;
@@ -319,12 +322,14 @@ header {
   margin-left: 910px;
   margin-top: 0%;
   position: absolute;
-  background-color: white;
   text-align: center;
   vertical-align: middle;
   line-height: 80px;
   font-size: 2em;
   font-weight: 900;
+  color: white;
+  border-bottom: 1px solid rgb(34, 178, 253);
+  border-right: 1px solid rgb(34, 178, 253);
 }
 .listItemQty {
   height: 80px;
@@ -332,7 +337,7 @@ header {
   margin-left: 1060px;
   margin-top: 0%;
   position: absolute;
-  background-color: black;
+  border-bottom: 1px solid rgb(34, 178, 253);
 }
 .qtyItem {
   height: 30px;
@@ -343,6 +348,7 @@ header {
   font-size: 1.3em;
   font-weight: 900;
   text-align: center;
+  border-bottom: 1px solid rgb(34, 178, 253);
 }
 
 
