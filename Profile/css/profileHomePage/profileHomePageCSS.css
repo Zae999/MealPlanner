@@ -186,7 +186,7 @@ header {
 
 #main {
   background-color: #364143;
-  height: 1288px;
+  height: 1388px;
   width: 100%;
 }
 #hiddenBoxTop {
@@ -194,7 +194,7 @@ header {
   width: 100%;
 }
 #addedSec {
-  height: 1288px; 
+  height: 1388px; 
   width: 100%; 
   margin-top: 0px;
 }
@@ -650,7 +650,7 @@ z-index: 2;
   float: left;
 }
 #FirstMPSec2 {
-  height: 100%;
+  height: 350px;
   width: 50%;
   margin-left: 0%;
   float: left;
@@ -658,7 +658,7 @@ z-index: 2;
 }
 #FirstMPTitle1 {
   width: 80%;
-  height: 20%;
+  height: 70px;
   margin-top: 10%;
   margin-left: 10%;
   text-align: center;
@@ -669,11 +669,11 @@ z-index: 2;
   font-weight: 900;
 }
 #FirstMPImages1 {
-  width: 80%;
-  height: 60%;
+  width: 63%;
+  height: 224px;
   background-color: rgba(0,0,255,0.5);
-  margin-top: -5%;
-  margin-left: 10%;
+  margin-top: -40px;
+  margin-left: 18.5%;
 }
 
 #FirstMPListItem1 {
@@ -681,6 +681,9 @@ z-index: 2;
   height: 20%;
   margin-top: 10%;
   margin-left: 5%;
+}
+#FirstMPListItem1:hover {
+  cursor: pointer;
 }
 #circle1 {
   width: 30px;
@@ -701,12 +704,15 @@ z-index: 2;
   font-weight: 900;
   color: rgb(6, 228, 255);
 }
+
 #FirstMPListItem2 {
   width: 90%;
   height: 20%;
   margin-top: 0%;
   margin-left: 5%;
-
+}
+#FirstMPListItem2:hover {
+  cursor: pointer;
 }
 #circle2 {
   width: 30px;
@@ -726,11 +732,15 @@ z-index: 2;
   font-size: 1.4em;
   font-weight: 900;
 }
+
 #FirstMPListItem3 {
   width: 90%;
   height: 20%;
   margin-top: 0%;
   margin-left: 5%;
+}
+#FirstMPListItem3:hover {
+  cursor: pointer;
 }
 #circle3 {
   width: 30px;
@@ -753,7 +763,6 @@ z-index: 2;
 
 
 
-
 #FirstMPSec3 {
   height: 100%;
   width: 25%;
@@ -762,7 +771,7 @@ z-index: 2;
   color: white;
 }
 #FirstMealServings {
-  height: 10%;
+  height: 35px;
   width: 100%;
   margin-top: 5%;
   text-align: center;
@@ -773,7 +782,7 @@ z-index: 2;
   color: white;
 }
 #FirstMealINTitle {
-  height: 13%;
+  height: 45.5px;
   width: 100%;
   margin-top: 0%;
   color: white;
@@ -826,12 +835,122 @@ z-index: 2;
   line-height: 20px;
   position: absolute;
 }
+#FirstExpand {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 49%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: 3px solid #23dbff;
+}
 
+#FirstExpand p{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  color: white;
+  font-size: 2.5em;
+  text-align: center;
+  font-weight: 900;
+  margin-top: -4px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+#plus {
+  line-height: 50px;
+  visibility: visible;
+  position: absolute;
+  top: 0px;
+}
+#minus {
+  visibility: hidden;
+  position: absolute;
+  line-height: 15px;
+  top: 0px;
+}
+#FirstExpand p:hover{
+  cursor: pointer;
+  color: #ffa500;
+}
 
+#lowerFirstSection {
+  height: 350px;
+  width: 100%;
+  margin-top: 350px;
+  position: absolute;
+  visibility: hidden;
+}
+#prepSec {
+  float: left;
+  height: 100%;
+  width: 50%;
+  color: white;
+}
+#makeSec {
+  float: left;
+  height: 100%;
+  width: 50%;
+  color: white;
+}
+#prepmakeTitle {
+  height: 50px;
+  width: 100%;
+  font-size: 2em;
+  font-weight: 900;
+  text-decoration: underline;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 0px;
+}
+#prepContent {
+  height: 300px;
+  width: 100%;
+  margin-top: -32px;
+}
+#makeContent {
+  height: 300px;
+  width: 100%;
+  margin-top: -32px;
+}
 
+#SecondExpand {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 49%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: 3px solid #23dbff;
+}
+#SecondExpand p{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  color: white;
+  font-size: 2.5em;
+  text-align: center;
+  font-weight: 900;
+  margin-top: -4px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+#SecondExpand p:hover{
+  cursor: pointer;
+  color: #ffa500;
+}
 
-
-
+#lowerSecondSection {
+  height: 350px;
+  width: 100%;
+  margin-top: 350px;
+  position: absolute;
+  visibility: hidden;
+}
 
 
 
@@ -864,7 +983,7 @@ z-index: 2;
   float: left;
 }
 #SecondMPSec2 {
-  height: 100%;
+  height: 350px;
   width: 50%;
   color: white;
   margin-left: 0%;
@@ -872,7 +991,7 @@ z-index: 2;
 }
 #SecondMPTitle1 {
   width: 80%;
-  height: 20%;
+  height: 70px;
   margin-top: 10%;
   margin-left: 10%;
   text-align: center;
@@ -883,11 +1002,11 @@ z-index: 2;
   font-weight: 900;
 }
 #SecondMPImages1 {
-  width: 80%;
-  height: 60%;
+  width: 63%;
+  height: 224px;
   background-color: rgba(0,0,255,0.5);
-  margin-top: -5%;
-  margin-left: 10%;
+  margin-top: -8%;
+  margin-left: 18.5%;
 }
 
 #SecondMPListItem1 {
@@ -896,7 +1015,15 @@ z-index: 2;
   margin-top: 10%;
   margin-left: 5%;
 }
-
+#SecondMPListItem1:hover {
+  cursor: pointer;
+}
+#SecondMPListItem2:hover {
+  cursor: pointer;
+}
+#SecondMPListItem3:hover {
+  cursor: pointer;
+}
 #SecondMPListItem2 {
   width: 90%;
   height: 20%;
@@ -913,7 +1040,7 @@ z-index: 2;
 }
 
 #SecondMPSec3 {
-  height: 100%;
+  height: 350px;
   width: 25%;
   margin-left: 0%;
   float: left;
@@ -973,6 +1100,8 @@ z-index: 2;
   height: 350px;
   width: 100%;
   border-top: 3px solid #23dbff;
+  border-bottom: 3px solid #23dbff;
+  overflow-y: hidden;
 }
 #ThirdMealPlan {
   height: 350px;
@@ -980,14 +1109,14 @@ z-index: 2;
   margin-top: 0%;
 }
 #ThirdMPSec1 {
-  height: 100%;
+  height: 350px;
   width: 25%;
 
   margin-left: 0%;
   float: left;
 }
 #ThirdMPSec2 {
-  height: 100%;
+  height: 350px;
   width: 50%;
   color: white;
   margin-left: 0%;
@@ -1006,13 +1135,21 @@ z-index: 2;
   font-weight: 900;
 }
 #ThirdMPImages1 {
-  width: 80%;
-  height: 60%;
+  width: 63%;
+  height: 224px;
   background-color: rgba(0,0,255,0.5);
-  margin-top: -5%;
-  margin-left: 10%;
+  margin-top: -8%;
+  margin-left: 18.5%;
 }
-
+#ThirdMPListItem1:hover {
+  cursor: pointer;
+}
+#ThirdMPListItem2:hover {
+  cursor: pointer;
+}
+#ThirdMPListItem3:hover {
+  cursor: pointer;
+}
 #ThirdMPListItem1 {
   width: 90%;
   height: 20%;
@@ -1036,7 +1173,7 @@ z-index: 2;
 }
 
 #ThirdMPSec3 {
-  height: 100%;
+  height: 350px;
   width: 25%;
   margin-left: 0%;
   float: left;
@@ -1080,6 +1217,41 @@ z-index: 2;
   position: absolute;
 }
 
+#ThirdExpand {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 49%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: 3px solid #23dbff;
+}
+#ThirdExpand p{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(54, 65, 67);
+  color: white;
+  font-size: 2.5em;
+  text-align: center;
+  font-weight: 900;
+  margin-top: -4px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+#ThirdExpand p:hover{
+  cursor: pointer;
+  color: #ffa500;
+}
+
+#lowerThirdSection {
+  height: 350px;
+  width: 100%;
+  margin-top: 0px;
+  position: absolute;
+  visibility: hidden;
+}
 
 
 
